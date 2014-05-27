@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:0,Arena Sport 1
+http://149.255.39.122/aasd/8812/index.m3u8
+#EXTINF:0,B92
+#EXTINF:0,B92 INFO
+http://149.255.39.122/aasd/8819/index.m3u8
+#EXTINF:0,Banovian TV
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:0,Filmon
+rtmp://204.107.26.252:8086/live/393.high.stream
+#EXTINF:0,Federalna TV
+http://149.255.39.122/aasd/8832/index.m3u8
+#EXTINF:0,HAYAT
+http://149.255.39.122/aasd/8838/index.m3u8
+#EXTINF:0,HRT 1
+http://83.139.104.101/Content/HLS/Live/Channel(HTV1-HRT)/Stream(04)/index.m3u8
+#EXTINF:0,HRT 2
+http://83.139.104.101/Content/HLS/Live/Channel(HTV2-HRT)/Stream(04)/index.m3u8
+#EXTINF:0,HRT 3
+http://83.139.104.101/Content/HLS/Live/Channel(HTV3-HRT)/Stream(04)/index.m3u8
+#EXTINF:0,HRT 4
+http://83.139.104.101/Content/HLS/Live/Channel(HTV4-HRT)/Stream(04)/index.m3u8
+#EXTINF:0,NOVA TV
+http://146.0.40.73:8080/ipvt_001
+#EXTINF:0,RTL
+http://178.218.162.146/918829941/rtl1.stream/theiptvblog.m3u8
+#EXTINF:0,OBN
+http://149.255.39.122/aasd/8836/index.m3u8
+#EXTINF:0,PINK ACTION
+http://149.255.39.122/aasd/8804/index.m3u8
+#EXTINF:0,PINK BiH
+http://149.255.39.122/aasd/8803/index.m3u8
+#EXTINF:0,PINK EXTRA
+http://149.255.39.122/aasd/8806/index.m3u8
+#EXTINF:0,PINK M
+http://149.255.39.122/aasd/8807/index.m3u8
+#EXTINF:0,PINK M
+http://149.255.39.122/aasd/8801/index.m3u8
+#EXTINF:0,SK1
+http://149.255.39.122/aasd/8813/index.m3u8
+#EXTINF:0,TVSA
+http://149.255.39.122/aasd/8109/index.m3u8
