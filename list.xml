@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<channels_groups>
-	</language>
-	<language id="hr" _lang="Croatian Web TV">
-		<channels_group uri="http://code.google.com/p/listanje/source/browse/freetuxtv.m3u" _name="Web TV (Croatian Bosnian Serbian)"></channels_group>
-	</language>
-</channels_groups>
