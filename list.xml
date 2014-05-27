@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels_groups>
-	</language>
 	<language id="hr" _lang="Croatian Web TV">
 		<channels_group uri="http://listanje.googlecode.com/git/croatia.m3u" _name="Web TV (Afrikaans)"></channels_group>
 	</language>
