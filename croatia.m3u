@@ -4,7 +4,7 @@ http://149.255.39.122/aasd/8812/index.m3u8
 #EXTINF:0,B92
 #EXTINF:0,B92 INFO
 http://149.255.39.122/aasd/8819/index.m3u8
-#EXTINF:0,Banovian TV
+#EXTINF:0,Banovina TV
 rtmp://video.radio-banovina.hr/live/myStream
 #EXTINF:0,Filmon
 rtmp://204.107.26.252:8086/live/393.high.stream
