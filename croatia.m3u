@@ -6,7 +6,7 @@ http://149.255.39.122/aasd/8812/index.m3u8
 http://149.255.39.122/aasd/8819/index.m3u8
 #EXTINF:0,Banovina TV
 rtmp://video.radio-banovina.hr/live/myStream
-#EXTINF:0,Filmon
+#EXTINF:0,Filmon Horrors
 rtmp://204.107.26.252:8086/live/393.high.stream
 #EXTINF:0,Federalna TV
 http://149.255.39.122/aasd/8832/index.m3u8
