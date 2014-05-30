@@ -2,4 +2,7 @@
 http://146.0.40.73:8080/ipvt_002
 #EXTINF:0 tvg-name="Arena Sport 1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rtl-logo.svg/120px-Rtl-logo.svg.png" group-title="Entertainment",Arena Sport 1 24x7 (http)
 http://77.56.5.169:8001/1:0:1:1CF:B:1:186AB7F:0:0:0
-
+#EXTINF:0,MTV Dance
+http://cdn-racacax.meximas.com/mtvdance.m3u8
+#EXTINF:0,MTV Rock
+http://cdn-racacax.meximas.com/mtvrock.m3u8
