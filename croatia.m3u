@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:0,Arena Sport 1
+#EXTINF:0,Arena Sport
 http://149.255.39.122/aasd/8812/index.m3u8
+#EXTINF:0,Arena Sport 1
+http://77.56.5.169:8001/1:0:1:1CF:B:1:186AB7F:0:0:0
+#EXTINF:0,Arena Sport 2
+http://77.56.5.169:8001/1:0:1:1D0:B:1:186AB7F:0:0:0
+#EXTINF:0,Arena Sport 3
+http://77.56.5.169:8001/1:0:1:1D1:B:1:186AB7F:0:0:0
+#EXTINF:0,Arena Sport 4
+http://77.56.5.169:8001/1:0:1:1D2:B:1:186AB7F:0:0:0
 #EXTINF:0,B92
 http://stream.b92.net:7999/tv-b92.ogg
 #EXTINF:0,B92 INFO
