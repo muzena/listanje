@@ -2,7 +2,43 @@
 http://146.0.40.73:8080/ipvt_002
 #EXTINF:0 tvg-name="Arena Sport 1" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rtl-logo.svg/120px-Rtl-logo.svg.png" group-title="Entertainment",Arena Sport 1 24x7 (http)
 http://77.56.5.169:8001/1:0:1:1CF:B:1:186AB7F:0:0:0
+#EXTINF:0,STUDIO B
+http://109.122.121.21/live/studio_b.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,Ab Moteurs
+http://cdn-racacax.meximas.com/abmoteurs.m3u8
+#EXTINF:0,Animaux
+http://cdn-racacax.meximas.com/animaux.m3u8
+#EXTINF:0,Chasse et pêche
+http://cdn-racacax.meximas.com/chasse.m3u8
+#EXTINF:0,Encyclo
+http://cdn-racacax.meximas.com/encyclo.m3u8
+#EXTINF:0,Escales
+http://cdn-racacax.meximas.com/escales.m3u8
+#EXTINF:0,Dresden Fernsehen
+http://cdn-racacax.meximas.com/dresden.m3u8
+#EXTINF:0,Eurosport (Anglais+Russe)
+http://cdn-racacax.meximas.com/eurosportenru109.m3u8
+#EXTINF:0,Eurosport (Roumain)
+http://cdn-racacax.meximas.com/eurosportrou109.m3u8
+#EXTINF:0,Eurosport (Russe)
+http://cdn-racacax.meximas.com/eurosportru95.m3u8
+#EXTINF:0,MCM Pop
+http://cdn-racacax.meximas.com/mcmpop.m3u8
+#EXTINF:0,MCM Top
+http://cdn-racacax.meximas.com/mcmtop.m3u8
+#EXTINF:0,Mezzo
+http://cdn-racacax.meximas.com/mezzo.m3u8
+#EXTINF:0,Motors TV
+http://cdn-racacax.meximas.com/motorstv.m3u8
+#EXTINF:0,Motors TV
+http://cdn-racacax.meximas.com/motorstv2.m3u8
 #EXTINF:0,MTV Dance
 http://cdn-racacax.meximas.com/mtvdance.m3u8
 #EXTINF:0,MTV Rock
 http://cdn-racacax.meximas.com/mtvrock.m3u8
+#EXTINF:0,Sport 1 (RU) HD
+http://cdn-racacax.meximas.com/sport1ru.m3u8
+#EXTINF:0,Zoo
+http://cdn-racacax.meximas.com/zoo.m3u8
+
+
