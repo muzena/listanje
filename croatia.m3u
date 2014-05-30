@@ -41,6 +41,38 @@ http://149.255.39.122/aasd/8801/index.m3u8
 http://149.255.39.122/aasd/8813/index.m3u8
 #EXTINF:0,TVSA
 http://149.255.39.122/aasd/8109/index.m3u8
+#EXTINF:0,B92
+http://109.122.121.21/live/b92.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,HAPPY
+http://109.122.121.21/live/happy.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,HRT 1
+http://109.122.121.21/live/hrt_1.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,HRT 2
+http://109.122.121.21/live/hrt_2.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,KANAL 3
+http://109.122.121.21/live/kanal_3.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,OBN
+http://109.122.121.21/live/obn.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,PALMA PLUS
+http://109.122.121.21/live/palma.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,PINK
+http://109.122.121.21/live/pink.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,PRVA TV
+http://109.122.121.21/live/prva.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,RTCG SAT
+http://109.122.121.21/live/rtcg.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,RTRS
+http://109.122.121.21/live/rtrs.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,RTS 1
+http://109.122.121.21/live/rts_1.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,RTS 2
+http://109.122.121.21/live/rts_2.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,RTV 1
+http://109.122.121.21/live/rtv_1.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,SOS
+http://109.122.121.21/live/sos.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,STUDIO B
+http://109.122.121.21/live/studio_b.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
 #EXTINF:0,Ab Moteurs
 http://cdn-racacax.meximas.com/abmoteurs.m3u8
 #EXTINF:0,Animaux
