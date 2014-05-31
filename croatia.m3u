@@ -9,6 +9,8 @@ http://176.61.160.11:8181/
 http://85.114.139.20:2048/
 #EXTINF:0,ARENA SPORT 4
 http://85.114.139.20:2049/
+#EXTINF:0,SK1
+http://149.255.39.122/aasd/8813/index.m3u8
 #EXTINF:0,SPORT KLUB 1
 http://85.114.139.20:2029/
 #EXTINF:0,SPORT KLUB 2
@@ -57,6 +59,7 @@ http://85.114.139.20:11333/
 http://85.114.139.20:18191/
 #EXTINF:0,FTV
 http://85.114.139.20:18194/
+#EXTINF:0,OBN
 http://149.255.39.122/aasd/8836/index.m3u8
 #EXTINF:0,PINK ACTION
 http://149.255.39.122/aasd/8804/index.m3u8
@@ -112,8 +115,6 @@ http://149.255.39.122/aasd/8806/index.m3u8
 http://149.255.39.122/aasd/8807/index.m3u8
 #EXTINF:0,PINK TV
 http://149.255.39.122/aasd/8801/index.m3u8
-#EXTINF:0,SK1
-http://149.255.39.122/aasd/8813/index.m3u8
 #EXTINF:0,TVSA
 http://149.255.39.122/aasd/8109/index.m3u8
 #EXTINF:0,PRVA
@@ -190,3 +191,4 @@ http://cdn-racacax.meximas.com/mtvrock.m3u8
 http://cdn-racacax.meximas.com/sport1ru.m3u8
 #EXTINF:0,Zoo
 http://cdn-racacax.meximas.com/zoo.m3u8
+ (i):  administer, also, and, as, ought, plus, too
