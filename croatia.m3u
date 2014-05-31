@@ -27,8 +27,6 @@ rtmp://204.107.26.252:8086/live/393.high.stream
 http://149.255.39.122/aasd/8832/index.m3u8
 #EXTINF:0,HAYAT
 http://149.255.39.122/aasd/8838/index.m3u8
-#EXTINF:0,HBO
-sop://broker.sopcast.com:3912/148881
 #EXTINF:0,HRT 1
 http://83.139.104.101/Content/HLS/Live/Channel(HTV1-HRT)/Stream(04)/index.m3u8
 #EXTINF:0,HRT 2
@@ -41,7 +39,9 @@ http://83.139.104.101/Content/HLS/Live/Channel(HTV4-HRT)/Stream(04)/index.m3u8
 http://146.0.40.73:8080/ipvt_001
 #EXTINF:0,RTL
 http://178.218.162.146/918829941/rtl1.stream/theiptvblog.m3u8
-#EXTINF:0,OBN#EXTINF:0,KLASIK TV
+#EXTINF:0,OBN
+http://149.255.39.122/aasd/8836/index.m3u8
+#EXTINF:0,KLASIK TV
 http://85.114.139.20:2044/
 #EXTINF:0,RTL
 http://85.114.139.20:2015/
@@ -76,7 +76,9 @@ http://85.114.139.20:2021/
 http://85.114.139.20:2022/
 #EXTINF:0,PINK COMEDY
 http://85.114.139.20:2040/
-#EXTINF:0,PINK BiH#EXTINF:0,PINK BH
+#EXTINF:0,PINK BiH
+http://149.255.39.122/aasd/8803/index.m3u8
+#EXTINF:0,PINK BH
 http://85.114.139.20:18090/
 #EXTINF:0,PINK 2
 http://85.114.139.20:18095/
@@ -104,7 +106,6 @@ http://85.114.139.20:18096/
 http://85.114.139.20:2026/
 #EXTINF:0,PINK ZABAVA
 http://85.114.139.20:2023/
-http://149.255.39.122/aasd/8803/index.m3u8
 #EXTINF:0,PINK EXTRA
 http://149.255.39.122/aasd/8806/index.m3u8
 #EXTINF:0,PINK M
