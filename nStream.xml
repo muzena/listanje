@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+<playlist_name>Standart Playlist</playlist_name>
+<category>
+	<category_id>1</category_id>
+	<category_title>Music RTMP</category_title>
+</category>	
+<category>
+	<category_id>2</category_id>
+	<category_title>Music HTTP</category_title>
+</category>		
+<category>
+	<category_id>3</category_id>
+	<category_title>Planeta TV</category_title>
+</category>	
+<category>
+	<category_id>5</category_id>
+	<category_title>Crystal Free</category_title>
+</category>	
+<category>
+	<category_id>4</category_id>
+	<category_title>OTHER</category_title>
+</category>	
+<category>
+	<category_id>6</category_id>
+	<category_title>SOVOK.TV TEST</category_title>
+</category>	
+<channel>
+	<title>NRJ Dance</title>
+	<stream_url><![CDATA[rtmp://nrjlivefs.fplive.net/nrjlive-live&id=nrjdance]]></stream_url> 
+	<logo_30x30>nrjdance.jpg</logo_30x30>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>NRJ Paris</title>
+	<stream_url><![CDATA[rtmp://nrjlivefs.fplive.net/nrjlive-live&id=nrjparis]]></stream_url> 
+	<logo_30x30>nrjparis.jpg</logo_30x30>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>NRJ Pure</title>
+	<stream_url><![CDATA[rtmp://nrjlivefs.fplive.net/nrjlive-live&id=nrjpure]]></stream_url> 
+	<logo_30x30>nrjpure.jpg</logo_30x30>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>NRJ Pop</title>
+	<stream_url><![CDATA[rtmp://nrjlivefs.fplive.net/nrjlive-live&id=nrjpop]]></stream_url> 
+	<logo_30x30>nrjpop.jpg</logo_30x30>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>NRJ Urban</title>
+	<stream_url><![CDATA[rtmp://nrjlivefs.fplive.net/nrjlive-live&id=nrjurban]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>nrjurban.jpg</logo_30x30>
+	<description>rtmp stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>1Music Baltic</title>
+	<stream_url><![CDATA[rtmp://80.232.172.37/rtplive&id=vlc.sdp]]></stream_url> 
+	<logo_30x30>perviy_muzykalnyi_telekanal.jpg</logo_30x30>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Top 40</title>
+	<stream_url><![CDATA[rtmp://fms.105.net:1935/live&id=charts1]]></stream_url> 
+	<logo_30x30>top40.jpg</logo_30x30>
+	<description><![CDATA[rtmp stream<br><h1>theStreamDB.com</h1>]]></description>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Radio 105 Network</title>
+	<stream_url><![CDATA[rtmp://fms.105.net:1935/live/&id=105Test1]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>radio105network.jpg</logo_30x30>
+	<description><![CDATA[rtmp stream<br><h1>theStreamDB.com</h1>]]></description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>MTV Ukraine</title>
+	<stream_url><![CDATA[http://tv.x-lan.net.ua:8015/mtvu]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>mtv.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>2</category_id>
+</channel>
+<channel>
+	<title>SPORT 3</title>
+	<stream_url><![CDATA[http://8.12.105.26:8085/btv_00228/?uid=b906cdf6ff69e5ee480f6b9a1dc8dfcf]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>ARENA SPORT 1</title>
+	<stream_url><![CDATA[http://85.114.139.20:17213/]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>brodilo.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>HRT 1</title>
+	<stream_url><![CDATA[http://83.139.104.101/Content/HLS/Live/Channel(HTV1-HRT)/Stream(04)/index.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv1.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>HRT 2</title>
+	<stream_url><![CDATA[http://83.139.104.101/Content/HLS/Live/Channel(HTV2-HRT)/Stream(04)/index.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>HRT 3</title>
+	<stream_url><![CDATA[http://83.139.104.101/Content/HLS/Live/Channel(HTV3-HRT)/Stream(04)/index.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>HRT 4</title>
+	<stream_url><![CDATA[http://83.139.104.101/Content/HLS/Live/Channel(HTV4-HRT)/Stream(04)/index.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>KLASIK TV</title>
+	<stream_url><![CDATA[http://85.114.139.20:2044/]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>PINK ACTION</title>
+	<stream_url><![CDATA[http://149.255.39.122/aasd/8804/index.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>PINK FILM</title>
+	<stream_url><![CDATA[http://85.114.139.20:2043/]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>PINK PREMIUM</title>
+	<stream_url><![CDATA[http://85.114.139.20:17087/]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>PINK HORROR</title>
+	<stream_url><![CDATA[http://85.114.139.20:2038/]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>PINK MOVIES 2</title>
+	<stream_url><![CDATA[http://85.114.139.20:2019/]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>PINK MOVIES 3</title>
+	<stream_url><![CDATA[http://85.114.139.20:2020/]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>PINK ACTION 2</title>
+	<stream_url><![CDATA[http://85.114.139.20:2021/]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>PINK ACTION 3</title>
+	<stream_url><![CDATA[http://85.114.139.20:2022/]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>PINK COMEDY</title>
+	<stream_url><![CDATA[http://85.114.139.20:2040/]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>KLASIK TV</title>
+	<stream_url><![CDATA[http://85.114.139.20:2044/]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>KLASIK TV</title>
+	<stream_url><![CDATA[http://85.114.139.20:2044/]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>Filmon Horrors</title>
+	<stream_url><![CDATA[rtmp://204.107.26.252:8086/live/393.high.stream]]></stream_url> 
+	<video_type>rtmp</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[rtmp STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>FRESHTV.TV</title>
+	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live/&id=channel_4&video_height=416&video_width=752]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>http://www.planeta-online.tv/images/logo/fresh.png</logo_30x30>
+	<description><![CDATA[Звёзды и молодые таланты российского шоу-бизнеса.Популярная музыка 24 часа в сутки, 365 дней в году.Здесь не соскучишься! + url]]></description>
+	<browser_url><![CDATA[http://www.planeta-online.tv/channels/program/4.html#program-now]]></browser_url>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title>Premiere.TV</title>
+	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live/&id=channel_5&video_height=416&video_width=752]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>http://www.planeta-online.tv/images/logo/pr.png</logo_30x30>
+	<description><![CDATA[Телеканал Премьера.tv - это знакомства с интересными, но нераскрученными кинокартинами, авторским кино. + URL]]></description>
+	<browser_url><![CDATA[http://www.planeta-online.tv/channels/program/5.html#program-now]]></browser_url>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title>TVTOUR.TV</title>
+	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live/&id=channel_2&video_height=416&video_width=752]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>http://www.planeta-online.tv/images/logo/tvt.png</logo_30x30>
+	<description><![CDATA[Уникальные фильмы о путешествиях по странам и континентам. Здесь Вы откроете для себя много нового и интересного. + URL]]></description>
+	<browser_url><![CDATA[http://www.planeta-online.tv/channels/program/2.html#program-now]]></browser_url>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title>Relax.TV</title>
+	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live/&id=channel_3&video_height=416&video_width=752]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>http://www.planeta-online.tv/images/logo/rl.png</logo_30x30>
+	<description><![CDATA[Телеканал хорошего настроения!Релакс 24 часа в сутки.Смотри и получай удовольствие!]]></description>
+	<browser_url></browser_url>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title><![CDATA[Барбарики.ТВ]]></title>
+	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live/&id=channel_6&video_height=416&video_width=752]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>http://www.planeta-online.tv/images/logo/bar.png</logo_30x30>
+	<description><![CDATA[Телеканал для всей семьи Барбарики.tv - только доброта, любовь и радость.Смотрите и получайте удовольствие!]]></description>
+	<browser_url></browser_url>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title>Ent.Bay HD</title>
+	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live/&id=channel_21&video_height=416&video_width=752]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>http://www.planeta-online.tv/images/logo/ent_bay.png</logo_30x30>
+	<description><![CDATA[Эксклюзивные интервью и редчайшие полные версии концертов самых известных и популярных групп и артистов на онлайн телеканале Ent.Bay + url]]></description>
+	<browser_url><![CDATA[http://www.planeta-online.tv/channels/program/21.html#program-now]]></browser_url>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title>PIK-TV</title>
+	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live/&id=pik.stream&video_height=416&video_width=752]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30><![CDATA[http://www.planeta-online.tv/uploads/channel/logo/a6e5531cf8290668aa1c302d9f7da0f8a267bd0a.png]]></logo_30x30>
+	<description><![CDATA[Первый Интернет Канал - круглосуточный молодежный информационно-развлекательный телеканал. Знакомство современного поколения с новостями мира музыки, кино, тенденциями моды.]]></description>
+	<browser_url></browser_url>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title>Ent.Bay CLIPS</title>
+	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live&id=entbay.stream&video_height=416&video_width=752]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>http://www.planeta-online.tv/images/logo/ent_bay_clips.png</logo_30x30>
+	<description><![CDATA[Знакомство с молодежными рок-группами Америки и новыми клипами поп-звёзд.
+
+24/7/365 Нон-стоп! ]]></description>
+	<browser_url></browser_url>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title>РОССИЯ 24</title>
+	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/rtplive/&id=vesti_24.sdp]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>http://www.planeta-online.tv/uploads/channel/photos/lit-193ea7a564035c548ca3ae36d901ba77.jpg</logo_30x30>
+	<description><![CDATA[Это единственный российский информационный канал, вещающий 24 часа в сутки. Мировые новости и новости регионов России. Экономическая аналитика и интервью с влиятельнейшими персонами. ]]></description>
+	<browser_url></browser_url>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title>РТР-Планета</title>
+	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/rtplive/&id=planeta.sdp]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>http://www.planeta-online.tv/uploads/channel/photos/lit-72a1e49116448243cdec0d866e18dc2f.jpg</logo_30x30>
+	<description><![CDATA[оперативные новости;
+авторские программы;
+лучшие российские сериалы;
+громкие документальные проекты;
+актуальные интервью;
+классика отечественного кинематографа. ]]></description>
+	<browser_url></browser_url>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title>Каббала ТВ</title>
+	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/rtplive/&id=cabbala.sdp]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>http://www.planeta-online.tv/uploads/channel/logo/00a938f8bee9067fd56ba96a8b033f24384b6059.png</logo_30x30>
+	<description><![CDATA[Мистика или реальность?
+
+Загляни в себя! ]]></description>
+	<browser_url></browser_url>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title>Doctor Degree</title>
+	<stream_url><![CDATA[rtmp://planeta-online.tv:1936/live/&id=channel_22&video_height=416&video_width=752]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>http://www.planeta-online.tv/images/logo/dg.png</logo_30x30>
+	<description><![CDATA[Уникальные методы лечения без применения лекарств. Советы доктора Попова - это Ваш шанс!
+Смотрите телеканал "Доктор Градус" и
+Будьте Здоровы!]]></description>
+	<browser_url><![CDATA[http://www.planeta-online.tv/channels/program/22.html#program-now]]></browser_url>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title>Poker Channel</title>
+	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/rtplive/&id=poker.sdp]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>http://www.planeta-online.tv/uploads/channel/photos/lit-bb5ccf03d59c831ea4b3c2db3ab18c05.jpg</logo_30x30>
+	<description><![CDATA[Круглосуточный телеканал, транслирующий главные события в мире покера.]]></description>
+	<browser_url></browser_url>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title>Radio FRESH</title>
+	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/rtplive/&id=channel_13&video_height=416&video_width=752]]></stream_url> 
+	<video_type>flash_rtmp</video_type>
+	<logo_30x30>http://www.planeta-online.tv/images/logo/radio.png</logo_30x30>
+	<description><![CDATA[Радио FRESH + program-now]]></description>
+	<browser_url><![CDATA[http://www.planeta-online.tv/channels/program/13.html#program-now]]></browser_url>
+	<category_id>3</category_id>
+</channel>
+<channel>
+	<title>Первый канал. Европа</title>
+	<stream_url><![CDATA[http://iphone.elt.softspb.com/ip/217_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de//img/ico/2.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>Россия 1</title>
+	<stream_url><![CDATA[http://iphone.msk.softspb.com/ip/211_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de//img/ico/3.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>РТР-планета</title>
+	<stream_url><![CDATA[http://iphone.msk.softspb.com/ip/33_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de//img/ico/373.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>Россия 24</title>
+	<stream_url><![CDATA[http://iphone.msk.softspb.com/ip/30_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de//img/ico/6.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>8TV</title>
+	<stream_url><![CDATA[http://iphone.msk.softspb.com/ip/101_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de//img/ico/default.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>Euronews</title>
+	<stream_url><![CDATA[http://piphone.elt.softspb.com/ip/52_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de//img/ico/502.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>Первый Канал Бизнеса</title>
+	<stream_url><![CDATA[http://piphone.sg.softspb.com/ip/34_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de//img/ico/503.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>РИА Новости</title>
+	<stream_url><![CDATA[http://iphone.msk.softspb.com/ip/75_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de//img/ico/504.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>Россия 2</title>
+	<stream_url><![CDATA[http://iphone.msk.softspb.com/ip/85_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de//img/ico/25.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>Amazing Life</title>
+	<stream_url><![CDATA[http://iphone.msk.softspb.com/ip/170_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de/img/ico/505.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>World Fashion Channel</title>
+	<stream_url><![CDATA[http://iphone.msk.softspb.com/ip/70_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de/img/ico/139.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>A-ONE</title>
+	<stream_url><![CDATA[http://iphone.msk.softspb.com/ip/37_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de/img/ico/506.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>Первый Игровой</title>
+	<stream_url><![CDATA[http://iphone.msk.softspb.com/ip/127_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de/img/ico/43.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>LooK TV</title>
+	<stream_url><![CDATA[http://iphone.msk.softspb.com/ip/73_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de/img/ico/511.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>Раз-ТВ</title>
+	<stream_url><![CDATA[http://iphone.msk.softspb.com/ip/252_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de//img/ico/510.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>Улыбка Ребенка</title>
+	<stream_url><![CDATA[http://iphone.sg.softspb.com/ip/197_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de//img/ico/515.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>Карусель</title>
+	<stream_url><![CDATA[http://iphone.msk.softspb.com/ip/232_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de//img/ico/19.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+<channel>
+	<title>Music Box</title>
+	<stream_url><![CDATA[http://iphone.msk.softspb.com/ip/110_350.m3u8]]></stream_url> 
+	<video_type>hls</video_type>
+	<logo_30x30>http://wasja.lima-city.de//img/ico/229.gif</logo_30x30>
+	<description>hls stream</description>
+	<browser_url></browser_url>
+	<category_id>5</category_id>
+</channel>
+</items>
