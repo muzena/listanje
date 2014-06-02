@@ -4,6 +4,8 @@ http://146.0.40.73:8080/ipvt_002
 http://77.56.5.169:8001/1:0:1:1CF:B:1:186AB7F:0:0:0
 #EXTINF:0,STUDIO B
 http://109.122.121.21/live/studio_b.stream/playlist.m3u8?hash=60b380b457f0aa96a80df4500ed116a63ae1a9ff
+#EXTINF:0,SPORT 3
+http://8.12.105.26:8085/btv_00228/?uid=b906cdf6ff69e5ee480f6b9a1dc8dfcf
 #EXTINF:0,Ab Moteurs
 http://cdn-racacax.meximas.com/abmoteurs.m3u8
 #EXTINF:0,Animaux
