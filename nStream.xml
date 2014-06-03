@@ -149,7 +149,7 @@
 	<video_type>http</video_type>
 	<logo_30x30>http://www.klasiktv.com/sites/default/themes/klasiktv/images/logo-klasiktv1.png</logo_30x30>
 	<description><![CDATA[STARI FILMOVI + url]]></description>
-	<browser_url><![CDATA[http://www.gonix.net/rss/todayon-klasiktv.tv.gonix.net.xml]]></browser_url>
+	<browser_url><![CDATA[http://tvprofil.net/tvprogram/#!kanal=klasiktv]]></browser_url>
 	<category_id>4</category_id>
 </channel>
 <channel>
