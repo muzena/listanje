@@ -334,7 +334,7 @@
 </channel>
 <channel>
 	<title>MTV Rock</title>
-	<stream_url><![CDATA[http://cdn-racacax.meximas.com/mtvrock.m3u8]]></stream_url> 
+	<stream_url><![CDATA[http://85.25.43.30:8238]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
