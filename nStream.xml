@@ -137,7 +137,7 @@
 <channel>
 	<title>Banovina TV</title>
 	<stream_url><![CDATA[rtmp://video.radio-banovina.hr/live/myStream]]></stream_url>
-	<video_type>rtmp</video_type>
+	<video_type>http</video_type>
 	<logo_30x30>http://www.radio-banovina.hr/images/bblog2-274x274.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
@@ -353,7 +353,7 @@
 <channel>
 	<title>Filmon Horrors</title>
 	<stream_url><![CDATA[rtmp://204.107.26.252:8086/live/393.high.stream]]></stream_url> 
-	<video_type>rtmp</video_type>
+	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[rtmp STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
