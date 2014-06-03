@@ -96,7 +96,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>ARENA SPORT 1</title>
@@ -105,7 +105,7 @@
 	<logo_30x30>http://kpc-info.com/images/vesti/infokanal_30_arenasport1.png</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>ARENA SPORT 2</title>
@@ -114,7 +114,7 @@
 	<logo_30x30>http://www.open.telekom.rs/Dokumenta/TelekomCentar/iptv_files/logotipi/arena-sport-2-150.gif</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>ARENA SPORT 3</title>
@@ -123,7 +123,7 @@
 	<logo_30x30>http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>ARENA SPORT 4</title>
@@ -132,7 +132,7 @@
 	<logo_30x30>http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport4_s.gif</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>Banovina TV</title>
@@ -141,7 +141,7 @@
 	<logo_30x30>http://www.radio-banovina.hr/images/bblog2-274x274.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>4</category_id>
+	<category_id>2</category_id>
 </channel>
 <channel>
 	<title>OBN</title>
@@ -150,7 +150,7 @@
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/hr/0/0e/Obn_logo.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>OBN</title>
@@ -159,7 +159,7 @@
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/hr/0/0e/Obn_logo.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>FTV</title>
@@ -168,7 +168,7 @@
 	<logo_30x30>http://www.bnet.hr/var/ezflow_site/storage/images/televizija/federalna_tv/29673-4-cro-HR/federalna_tv_tvchannel_large.png</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>NOVA TV</title>
@@ -177,7 +177,7 @@
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/bs/f/fe/NOVA_TV_LOGO.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>RTL</title>
@@ -186,7 +186,7 @@
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/de/0/0b/RTL_Logo_2004.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>BHT</title>
@@ -195,7 +195,7 @@
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/bs/archive/6/65/20130127130539!BHT.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>TVSA</title>
@@ -204,7 +204,7 @@
 	<logo_30x30>http://tvsa.ba/img/user/logo1.png</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>HRT 1</title>
@@ -213,7 +213,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv1.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>HRT 2</title>
@@ -222,7 +222,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>HRT 3</title>
@@ -231,7 +231,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>HRT 4</title>
@@ -240,7 +240,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>KLASIK TV</title>
@@ -249,7 +249,7 @@
 	<logo_30x30>http://www.klasiktv.com/sites/default/themes/klasiktv/images/logo-klasiktv1.png</logo_30x30>
 	<description><![CDATA[STARI FILMOVI. + URL]]></description>
 	<browser_url><![CDATA[http://tvprofil.net/tvprogram/#!kanal=klasiktv]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>PINK ACTION</title>
@@ -258,7 +258,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>PINK FILM</title>
@@ -267,7 +267,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>PINK PREMIUM</title>
@@ -276,7 +276,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>PINK HORROR</title>
@@ -285,7 +285,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>PINK MOVIES 2</title>
@@ -294,7 +294,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>PINK MOVIES 3</title>
@@ -303,7 +303,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>PINK ACTION 2</title>
@@ -312,7 +312,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>PINK ACTION 3</title>
@@ -321,7 +321,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>PINK COMEDY</title>
@@ -330,7 +330,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>MTV Rock</title>
@@ -339,7 +339,7 @@
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>KLASIK TV</title>
@@ -348,7 +348,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>Filmon Horrors</title>
@@ -357,7 +357,7 @@
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[rtmp STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>4</category_id>
+	<category_id>2</category_id>
 </channel>
 <channel>
 	<title>FRESHTV.TV</title>
@@ -659,4 +659,4 @@
 	<category_id>5</category_id>
 </channel>
 </items>
- (o):  koliko je sati (oba):  both, both of them, either (novak):  novice, recruit, tiro (l):  L
+ (o):  koliko je sati (oba):  both, both of them, either (novak):  novice, recruit, tiro (l):  L (h):  hour
