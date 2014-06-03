@@ -102,7 +102,106 @@
 	<title>ARENA SPORT 1</title>
 	<stream_url><![CDATA[http://85.114.139.20:17213/]]></stream_url> 
 	<video_type>http</video_type>
-	<logo_30x30>brodilo.jpg</logo_30x30>
+	<logo_30x30>http://kpc-info.com/images/vesti/infokanal_30_arenasport1.png</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>ARENA SPORT 2</title>
+	<stream_url><![CDATA[http://176.61.160.11:8181/]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://www.open.telekom.rs/Dokumenta/TelekomCentar/iptv_files/logotipi/arena-sport-2-150.gif</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>ARENA SPORT 3</title>
+	<stream_url><![CDATA[http://85.114.139.20:2048/]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>ARENA SPORT 4</title>
+	<stream_url><![CDATA[http://85.114.139.20:2049/]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport4_s.gif</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>Banovina TV</title>
+	<stream_url><![CDATA[rtmp://video.radio-banovina.hr/live/myStream]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://www.radio-banovina.hr/images/bblog2-274x274.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>OBN</title>
+	<stream_url><![CDATA[http://149.255.39.122/aasd/8836/index.m3u8]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://upload.wikimedia.org/wikipedia/hr/0/0e/Obn_logo.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>OBN</title>
+	<stream_url><![CDATA[http://149.255.39.122/aasd/8836/index.m3u8]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://upload.wikimedia.org/wikipedia/hr/0/0e/Obn_logo.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>FTV</title>
+	<stream_url><![CDATA[http://85.114.139.20:18194/]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://www.bnet.hr/var/ezflow_site/storage/images/televizija/federalna_tv/29673-4-cro-HR/federalna_tv_tvchannel_large.png</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>NOVA TV</title>
+	<stream_url><![CDATA[http://85.114.139.20:11333/]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://upload.wikimedia.org/wikipedia/bs/f/fe/NOVA_TV_LOGO.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>RTL</title>
+	<stream_url><![CDATA[http://85.114.139.20:2015/]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://upload.wikimedia.org/wikipedia/de/0/0b/RTL_Logo_2004.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>BHT</title>
+	<stream_url><![CDATA[http://85.114.139.20:18191/]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://upload.wikimedia.org/wikipedia/bs/archive/6/65/20130127130539!BHT.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>4</category_id>
+</channel>
+<channel>
+	<title>TVSA</title>
+	<stream_url><![CDATA[http://149.255.39.122/aasd/8109/index.m3u8]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://tvsa.ba/img/user/logo1.png</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
 	<category_id>4</category_id>
@@ -234,10 +333,10 @@
 	<category_id>4</category_id>
 </channel>
 <channel>
-	<title>KLASIK TV</title>
-	<stream_url><![CDATA[http://85.114.139.20:2044/]]></stream_url> 
+	<title>MTV Rock</title>
+	<stream_url><![CDATA[http://cdn-racacax.meximas.com/mtvrock.m3u8]]></stream_url> 
 	<video_type>http</video_type>
-	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
 	<category_id>4</category_id>
@@ -560,3 +659,4 @@
 	<category_id>5</category_id>
 </channel>
 </items>
+ (o):  koliko je sati (oba):  both, both of them, either (novak):  novice, recruit, tiro (l):  L
