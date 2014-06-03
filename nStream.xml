@@ -149,7 +149,7 @@
 	<video_type>http</video_type>
 	<logo_30x30>http://www.klasiktv.com/sites/default/themes/klasiktv/images/logo-klasiktv1.png</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
-	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<browser_url><![CDATA[http://www.gonix.net/rss/todayon-klasiktv.tv.gonix.net.xml]]></browser_url>
 	<category_id>4</category_id>
 </channel>
 <channel>
