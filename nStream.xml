@@ -153,8 +153,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>OBN</title>
-	<stream_url><![CDATA[http://149.255.39.122/aasd/8836/index.m3u8]]></stream_url>
+	<title>HAYAT</title>
+	<stream_url><![CDATA[http://149.255.39.122/aasd/8838/index.m3u8]]></stream_url>
 	<video_type>http</video_type>
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/hr/0/0e/Obn_logo.jpg</logo_30x30>
 	<description>http stream</description>
