@@ -333,8 +333,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>MTV Rock</title>
-	<stream_url><![CDATA[http://85.25.43.30:8238]]></stream_url> 
+	<title>MGM</title>
+	<stream_url><![CDATA[http://202.75.23.35:8800/live/ch40/01.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
@@ -342,8 +342,25 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
+	<title>VH1</title>
+	<stream_url><![CDATA[http://iptv.lan.ua:8129/]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel><channel>
+	<title>MTV Rock</title>
+	<stream_url><![CDATA[http://85.25.43.30:8238]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>1</category_id>
+</channel>
 	<title>KLASIK TV</title>
-	<stream_url><![CDATA[http://85.114.139.20:2044/]]></stream_url> 
+	<stream_url><![CDATA[http://202.75.23.35:8800/live/ch40/01.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
