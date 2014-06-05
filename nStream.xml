@@ -350,7 +350,25 @@
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
 	<category_id>1</category_id>
 </channel>
-<channel><channel>
+<channel>
+	<title>VH1 Europe</title>
+	<stream_url><![CDATA[http://46.44.3.180:2323/udp/224.0.90.141:1234]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>VH1 Classic</title>
+	<stream_url><![CDATA[http://46.44.3.180:2323/udp/224.0.90.40:1234]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
 	<title>MTV Rock</title>
 	<stream_url><![CDATA[http://85.25.43.30:8238]]></stream_url>
 	<video_type>http</video_type>
