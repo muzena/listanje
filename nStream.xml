@@ -99,8 +99,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>ARENA SPORT 1</title>
-	<stream_url><![CDATA[http://85.114.139.20:17213/]]></stream_url> 
+	<title>BOX 1</title>
+	<stream_url><![CDATA[http://stream1.zoovision.com//livespi/erox/playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://kpc-info.com/images/vesti/infokanal_30_arenasport1.png</logo_30x30>
 	<description>http stream</description>
@@ -108,8 +108,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>ARENA SPORT 2</title>
-	<stream_url><![CDATA[http://176.61.160.11:8181/]]></stream_url>
+	<title>BOX 2</title>
+	<stream_url><![CDATA[http://stream1.zoovision.com//livespi/eroxx/playlist.m3u8]]></stream_url>
 	<video_type>http</video_type>
 	<logo_30x30>http://www.open.telekom.rs/Dokumenta/TelekomCentar/iptv_files/logotipi/arena-sport-2-150.gif</logo_30x30>
 	<description>http stream</description>
