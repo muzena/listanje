@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels_groups>
 	<language id="hr" _lang="Croatian Web TV">
-		<channels_group uri="http://listanje.googlecode.com/git/croatia.m3u" _name="Web TV (Afrikaans)"></channels_group>
+		<channels_group uri="https://raw.githubusercontent.com/bengbengsmrade/PVR/master/README.md" name="Televizija (Kabelaska)"></channels_group>
 	</language>
 </channels_groups>
