@@ -217,6 +217,68 @@ http://pinkovi.hits2hits.com/fastv_2psh/PinkMusic5global_rly_greece_103/hits2hit
 http://pinkovi.hits2hits.com/fastv_2psh/PinkPediaglobal_rly_greece_103/hits2hits.m3u8
 #EXTINF:-1,Pink Premium
 http://pinkovi.hits2hits.com/fastv_2psh/PinkPremiumglobal_rly_greece_103/hits2hits.m3u8
+#EXTINF:0,Pink 
+http://str108.setplex.net/fastv_2psh/Pinkglobal_rly_greece_109/index.m3u8
+#EXTINF:0,Pink 2 
+http://str108.setplex.net/fastv_2psh/Pink2global_rly_greece_109/index.m3u8 
+#EXTINF:0,Pink 3 
+http://str108.setplex.net/fastv_2psh/Pink3global_rly_greece_109/index.m3u8
+#EXTINF:0,Pink Zabava 
+http://str108.setplex.net/fastv_2psh/PinkZabavaglobal_rly_greece_103/index.m3u8
+#EXTINF:0,Pink Live 
+http://str108.setplex.net/fastv_2psh/PinkLiveglobal_rly_greece_103/index.m3u8
+#EXTINF:0,Pink Fashion 
+http://str108.setplex.net/fastv_2psh/PinkFashionglobal_rly_greece_103/index.m3u8 
+#EXTINF:0,Pink Movies 
+http://str108.setplex.net/fastv_2psh/PinkMoviesglobal_rly_greece_109/index.m3u8 
+#EXTINF:0,Pink Movies 2 
+http://str108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/index.m3u8
+#EXTINF:0,Pink Movies 3 
+http://str108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/index.m3u8
+#EXTINF:0,Pink Action 
+http://str108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/index.m3u8
+#EXTINF:0,Pink Action 2 
+http://str108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/index.m3u8
+#EXTINF:0,Pink Action 3 
+http://str108.setplex.net/fastv_2psh/PinkAction3global_rly_greece_103/index.m3u8
+#EXTINF:0,Pink Premium 
+http://str108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/index.m3u8 
+#EXTINF:0,Pink Comedy 
+http://str108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/index.m3u8
+#EXTINF:0,Pink Family 
+http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/index.m3u8
+#EXTINF:0,Pink Horror 
+http://str108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/index.m3u8 
+#EXTINF:0,Pink Western 
+http://str108.setplex.net/fastv_2psh/PinkWesternglobal_rly_greece_103/index.m3u8 
+#EXTINF:0,Pink Kids 
+http://str108.setplex.net/fastv_2psh/PinkKidsglobal_rly_greece_103/index.m3u8
+#EXTINF:0,Pink M 
+http://str108.setplex.net/fastv_2psh/PinkMglobal_rly_greece_109/index.m3u8 
+#EXTINF:0,Pink Music 
+http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/index.m3u8 
+#EXTINF:0,Pink Music 2 
+http://str108.setplex.net/fastv_2psh/PinkMusic2global_rly_greece_103/index.m3u8 
+#EXTINF:0,Pink Music 3 
+http://str108.setplex.net/fastv_2psh/PinkMusic3global_rly_greece_103/index.m3u8 
+#EXTINF:0,Pink Music 4 
+http://str108.setplex.net/fastv_2psh/PinkMusic4global_rly_greece_103/index.m3u8
+#EXTINF:0,Pink Music 5 
+http://str108.setplex.net/fastv_2psh/PinkMusic5global_rly_greece_103/index.m3u8
+#EXTINF:0,Pink Folk 1 
+http://str108.setplex.net/fastv_2psh/PinkFolk1global_rly_greece_103/index.m3u8 
+#EXTINF:0,Pink Folk 2 
+http://str108.setplex.net/fastv_2psh/PinkFolk2global_rly_greece_103/index.m3u8 
+#EXTINF:0,Pink Pedia 
+http://str108.setplex.net/fastv_2psh/PinkPediaglobal_rly_greece_103/index.m3u8
+#EXTINF:0,Pink Reality 
+http://str108.setplex.net/fastv_2psh/PinkRealityglobal_rly_greece_103/index.m3u8 
+#EXTINF:0,Pink Soap 
+http://str108.setplex.net/fastv_2psh/PinkSoapglobal_rly_greece_103/index.m3u8 
+#EXTINF:0,Pink World 
+http://str108.setplex.net/fastv_2psh/PinkWorldglobal_rly_greece_109/index.m3u8 
+#EXTINF:0,Pink Nostalgija 
+http://str108.setplex.net/fastv_2psh/PinkNostalgijaglobal_rly_greece_103/index.m3u8
 #EXTINF:-1, Lorist TV
 http://loristtv.com/live/LoristTV.m3u8
 #EXTINF:-1,CBS Reality
@@ -1143,3 +1205,43 @@ http://167.114.65.74/hls/fa.m3u8
 http://bit.do/2mYQ
 #EXTINF:-1, South Park 24/7
 http://bit.do/2mYX
+#EXTINF:0,K:CN 
+http://212.200.101.10:9011 
+#EXTINF:0,K:CN 2 
+http://212.200.101.10:9012
+#EXTINF:0,K:CN 3 
+http://212.200.101.10:9013
+#EXTINF:0,DUGA
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:0,TESLA VISION
+http://94.230.178.58:8090
+#EXTINF:0,TOP SOUND
+http://topsound.multimediaiptv.net:8000/topsound
+#EXTINF:0,BN
+http://87.250.41.121:31344
+#EXTINF:0,A1 HD BALKAN
+http://188.138.9.171:1935/live/alpha1/index.m3u8
+#EXTINF:0,BATV
+http://4.31.30.142:9262
+#EXTINF:0,BOSNA TV1
+http://5.153.25.7:8080/stream/?channel=promotv?stream=1mb?sp=nettvplus?u=
+#EXTINF:0,HEMA
+mmsh://77.238.209.50:1234
+#EXTINF:0,MIM TV
+http://4.31.30.142:9264
+#EXTINF:0,VALENTINO
+rtsp://77.74.231.11/otv/audio
+#EXTINF:0,PTV
+http://195.29.77.65:81/live/ptv.m3u8
+#EXTINF:0,PTPC
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+#EXTINF:0,SLON EXTRA
+http://31.47.0.170:8080
+#EXTINF:0,TSN1 HD
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+#EXTINF:0,TSN2 HD
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+#EXTINF:0,TSN3 HD
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+#EXTINF:0,TSN4 HD
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
