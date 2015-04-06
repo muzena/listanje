@@ -450,8 +450,8 @@
 	<category_id>3</category_id>
 </channel>
 <channel>
-	<title>PIK-TV</title>
-	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live/&id=pik.stream&video_height=416&video_width=752]]></stream_url> 
+	<title>TESLA VISION</title>
+	<stream_url><![CDATA[http://94.230.178.58:8090]]></stream_url> 
 	<video_type>flash_rtmp</video_type>
 	<logo_30x30><![CDATA[http://www.planeta-online.tv/uploads/channel/logo/a6e5531cf8290668aa1c302d9f7da0f8a267bd0a.png]]></logo_30x30>
 	<description><![CDATA[Первый Интернет Канал - круглосуточный молодежный информационно-развлекательный телеканал. Знакомство современного поколения с новостями мира музыки, кино, тенденциями моды.]]></description>
@@ -459,8 +459,8 @@
 	<category_id>3</category_id>
 </channel>
 <channel>
-	<title>Ent.Bay CLIPS</title>
-	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live&id=entbay.stream&video_height=416&video_width=752]]></stream_url> 
+	<title>Pink Western</title>
+	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkWesternglobal_rly_greece_103/index.m3u8]]></stream_url> 
 	<video_type>flash_rtmp</video_type>
 	<logo_30x30>http://www.planeta-online.tv/images/logo/ent_bay_clips.png</logo_30x30>
 	<description><![CDATA[Знакомство с молодежными рок-группами Америки и новыми клипами поп-звёзд.
