@@ -378,8 +378,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>KLASIK TV</title>
-	<stream_url><![CDATA[http://202.75.23.35:8800/live/ch40/01.m3u8]]></stream_url> 
+	<title>Arena Sport 2</title>
+	<stream_url><![CDATA[http://62.112.54.4/hls/arena2.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
@@ -387,8 +387,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Filmon Horrors</title>
-	<stream_url><![CDATA[rtmp://204.107.26.252:8086/live/393.high.stream]]></stream_url> 
+	<title>Arena Sport 3</title>
+	<stream_url><![CDATA[http://62.112.54.4/hls/arena1.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[rtmp STREAM]]></description>
@@ -396,8 +396,8 @@
 	<category_id>2</category_id>
 </channel>
 <channel>
-	<title>FRESHTV.TV</title>
-	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live/&id=channel_4&video_height=416&video_width=752]]></stream_url> 
+	<title>Movies 4 Men</title>
+	<stream_url><![CDATA[http://93.184.221.133/00573D/311/311-0.m3u8]]></stream_url> 
 	<video_type>flash_rtmp</video_type>
 	<logo_30x30>http://www.planeta-online.tv/images/logo/fresh.png</logo_30x30>
 	<description><![CDATA[Звёзды и молодые таланты российского шоу-бизнеса.Популярная музыка 24 часа в сутки, 365 дней в году.Здесь не соскучишься! + url]]></description>
@@ -405,8 +405,8 @@
 	<category_id>3</category_id>
 </channel>
 <channel>
-	<title>Premiere.TV</title>
-	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live/&id=channel_5&video_height=416&video_width=752]]></stream_url> 
+	<title>VH 1</title>
+	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8]]></stream_url> 
 	<video_type>flash_rtmp</video_type>
 	<logo_30x30>http://www.planeta-online.tv/images/logo/pr.png</logo_30x30>
 	<description><![CDATA[Телеканал Премьера.tv - это знакомства с интересными, но нераскрученными кинокартинами, авторским кино. + URL]]></description>
@@ -414,8 +414,8 @@
 	<category_id>3</category_id>
 </channel>
 <channel>
-	<title>TVTOUR.TV</title>
-	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live/&id=channel_2&video_height=416&video_width=752]]></stream_url> 
+	<title>ESPN HD</title>
+	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8]]></stream_url> 
 	<video_type>flash_rtmp</video_type>
 	<logo_30x30>http://www.planeta-online.tv/images/logo/tvt.png</logo_30x30>
 	<description><![CDATA[Уникальные фильмы о путешествиях по странам и континентам. Здесь Вы откроете для себя много нового и интересного. + URL]]></description>
@@ -423,8 +423,8 @@
 	<category_id>3</category_id>
 </channel>
 <channel>
-	<title>Relax.TV</title>
-	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live/&id=channel_3&video_height=416&video_width=752]]></stream_url> 
+	<title>GOLDEN HD</title>
+	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8]]></stream_url> 
 	<video_type>flash_rtmp</video_type>
 	<logo_30x30>http://www.planeta-online.tv/images/logo/rl.png</logo_30x30>
 	<description><![CDATA[Телеканал хорошего настроения!Релакс 24 часа в сутки.Смотри и получай удовольствие!]]></description>
@@ -432,8 +432,8 @@
 	<category_id>3</category_id>
 </channel>
 <channel>
-	<title><![CDATA[Барбарики.ТВ]]></title>
-	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live/&id=channel_6&video_height=416&video_width=752]]></stream_url> 
+	<title><![CDATA[Private]]></title>
+	<stream_url><![CDATA[http://185.38.12.20:8088/private/]]></stream_url> 
 	<video_type>flash_rtmp</video_type>
 	<logo_30x30>http://www.planeta-online.tv/images/logo/bar.png</logo_30x30>
 	<description><![CDATA[Телеканал для всей семьи Барбарики.tv - только доброта, любовь и радость.Смотрите и получайте удовольствие!]]></description>
@@ -441,8 +441,8 @@
 	<category_id>3</category_id>
 </channel>
 <channel>
-	<title>Ent.Bay HD</title>
-	<stream_url><![CDATA[rtmp://www.planeta-online.tv:1936/live/&id=channel_21&video_height=416&video_width=752]]></stream_url> 
+	<title>Russian night</title>
+	<stream_url><![CDATA[http://185.38.12.20:8088/rusnoch/]]></stream_url> 
 	<video_type>flash_rtmp</video_type>
 	<logo_30x30>http://www.planeta-online.tv/images/logo/ent_bay.png</logo_30x30>
 	<description><![CDATA[Эксклюзивные интервью и редчайшие полные версии концертов самых известных и популярных групп и артистов на онлайн телеканале Ent.Bay + url]]></description>
