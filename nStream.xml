@@ -81,17 +81,17 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>MTV Ukraine</title>
-	<stream_url><![CDATA[http://tv.x-lan.net.ua:8015/mtvu]]></stream_url> 
+	<title>Fox Action Movies HD</title>
+	<stream_url><![CDATA[http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h]]></stream_url> 
 	<video_type>http</video_type>
-	<logo_30x30>mtv.jpg</logo_30x30>
+	<logo_30x30>Fox.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
 	<category_id>2</category_id>
 </channel>
 <channel>
-	<title>SPORT 3</title>
-	<stream_url><![CDATA[http://8.12.105.26:8085/btv_00228/?uid=b906cdf6ff69e5ee480f6b9a1dc8dfcf]]></stream_url> 
+	<title>Fox Action Movies</title>
+	<stream_url><![CDATA[http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h&hpgdisco_m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -99,17 +99,17 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>BOX 1</title>
-	<stream_url><![CDATA[http://stream1.zoovision.com//livespi/erox/playlist.m3u8]]></stream_url> 
+	<title>Fox Movies</title>
+	<stream_url><![CDATA[http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h&hpgdisco_m3u8]]></stream_url> 
 	<video_type>http</video_type>
-	<logo_30x30>http://kpc-info.com/images/vesti/infokanal_30_arenasport1.png</logo_30x30>
+	<logo_30x30>fox.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>BOX 2</title>
-	<stream_url><![CDATA[http://stream1.zoovision.com//livespi/eroxx/playlist.m3u8]]></stream_url>
+	<title>Fox Movies HD</title>
+	<stream_url><![CDATA[http://103.242.13.66:5000/nn_live.ts?id=supernet-m-h]]></stream_url>
 	<video_type>http</video_type>
 	<logo_30x30>http://www.open.telekom.rs/Dokumenta/TelekomCentar/iptv_files/logotipi/arena-sport-2-150.gif</logo_30x30>
 	<description>http stream</description>
@@ -117,8 +117,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>ARENA SPORT 3</title>
-	<stream_url><![CDATA[http://85.114.139.20:2048/]]></stream_url>
+	<title>Fox Movies Premium HD</title>
+	<stream_url><![CDATA[http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h]]></stream_url>
 	<video_type>http</video_type>
 	<logo_30x30>http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport3_s.gif</logo_30x30>
 	<description>http stream</description>
@@ -126,8 +126,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>ARENA SPORT 4</title>
-	<stream_url><![CDATA[http://85.114.139.20:2049/]]></stream_url>
+	<title>HBO</title>
+	<stream_url><![CDATA[http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602]]></stream_url>
 	<video_type>http</video_type>
 	<logo_30x30>http://www.tvarenasport.com/themes/3way/img/logo_tvarenasport4_s.gif</logo_30x30>
 	<description>http stream</description>
@@ -135,8 +135,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Banovina TV</title>
-	<stream_url><![CDATA[rtmp://video.radio-banovina.hr/live/myStream]]></stream_url>
+	<title>Fox 1 (US)</title>
+	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?]]></stream_url>
 	<video_type>http</video_type>
 	<logo_30x30>http://www.radio-banovina.hr/images/bblog2-274x274.jpg</logo_30x30>
 	<description>http stream</description>
@@ -144,8 +144,8 @@
 	<category_id>2</category_id>
 </channel>
 <channel>
-	<title>OBN</title>
-	<stream_url><![CDATA[http://149.255.39.122/aasd/8836/index.m3u8]]></stream_url>
+	<title>FOX MOVIES HD (US)</title>
+	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?]]></stream_url>
 	<video_type>http</video_type>
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/hr/0/0e/Obn_logo.jpg</logo_30x30>
 	<description>http stream</description>
@@ -153,8 +153,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>HAYAT</title>
-	<stream_url><![CDATA[http://149.255.39.122/aasd/8838/index.m3u8]]></stream_url>
+	<title>Fox Action (US)</title>
+	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?]]></stream_url>
 	<video_type>http</video_type>
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/hr/0/0e/Obn_logo.jpg</logo_30x30>
 	<description>http stream</description>
@@ -162,8 +162,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>FTV</title>
-	<stream_url><![CDATA[http://85.114.139.20:18194/]]></stream_url>
+	<title>FOX CINEMA (US)</title>
+	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?]]></stream_url>
 	<video_type>http</video_type>
 	<logo_30x30>http://www.bnet.hr/var/ezflow_site/storage/images/televizija/federalna_tv/29673-4-cro-HR/federalna_tv_tvchannel_large.png</logo_30x30>
 	<description>http stream</description>
@@ -171,8 +171,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>NOVA TV</title>
-	<stream_url><![CDATA[http://85.114.139.20:11333/]]></stream_url>
+	<title>FOX MOVIES HD (US)</title>
+	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?]]></stream_url>
 	<video_type>http</video_type>
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/bs/f/fe/NOVA_TV_LOGO.jpg</logo_30x30>
 	<description>http stream</description>
@@ -180,8 +180,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>RTL</title>
-	<stream_url><![CDATA[http://85.114.139.20:2015/]]></stream_url>
+	<title>Fox Family (US)</title>
+	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?]]></stream_url>
 	<video_type>http</video_type>
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/de/0/0b/RTL_Logo_2004.jpg</logo_30x30>
 	<description>http stream</description>
@@ -189,8 +189,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>BHT</title>
-	<stream_url><![CDATA[http://85.114.139.20:18191/]]></stream_url>
+	<title>FOX CLASSICS (US)</title>
+	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?]]></stream_url>
 	<video_type>http</video_type>
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/bs/archive/6/65/20130127130539!BHT.jpg</logo_30x30>
 	<description>http stream</description>
@@ -198,8 +198,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>TVSA</title>
-	<stream_url><![CDATA[http://149.255.39.122/aasd/8109/index.m3u8]]></stream_url>
+	<title>FILM ZONE HD (US)</title>
+	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?]]></stream_url>
 	<video_type>http</video_type>
 	<logo_30x30>http://tvsa.ba/img/user/logo1.png</logo_30x30>
 	<description>http stream</description>
@@ -207,8 +207,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>HRT 1</title>
-	<stream_url><![CDATA[http://83.139.104.101/Content/HLS/Live/Channel(HTV1-HRT)/Stream(04)/index.m3u8]]></stream_url> 
+	<title>AXN HD</title>
+	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv1.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
@@ -216,8 +216,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>HRT 2</title>
-	<stream_url><![CDATA[http://83.139.104.101/Content/HLS/Live/Channel(HTV2-HRT)/Stream(04)/index.m3u8]]></stream_url> 
+	<title>Pink 1</title>
+	<stream_url><![CDATA[http://pinkovi.hits2hits.com/fastv_2psh/Pinkglobal_rly_greece_109/hits2hits.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
@@ -225,8 +225,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>HRT 3</title>
-	<stream_url><![CDATA[http://83.139.104.101/Content/HLS/Live/Channel(HTV3-HRT)/Stream(04)/index.m3u8]]></stream_url> 
+	<title>Pink 2</title>
+	<stream_url><![CDATA[http://pinkovi.hits2hits.com/fastv_2psh/Pink2global_rly_greece_109/hits2hits.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
@@ -234,8 +234,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>HRT 4</title>
-	<stream_url><![CDATA[http://83.139.104.101/Content/HLS/Live/Channel(HTV4-HRT)/Stream(04)/index.m3u8]]></stream_url> 
+	<title>Pink 3</title>
+	<stream_url><![CDATA[http://pinkovi.hits2hits.com/fastv_2psh/Pink3global_rly_greece_109/hits2hits.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
@@ -243,8 +243,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>KLASIK TV</title>
-	<stream_url><![CDATA[http://85.114.139.20:2044/]]></stream_url> 
+	<title>Pink Action 1</title>
+	<stream_url><![CDATA[http://pinkovi.hits2hits.com/fastv_2psh/PinkActionglobal_rly_greece_109/hits2hits.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.klasiktv.com/sites/default/themes/klasiktv/images/logo-klasiktv1.png</logo_30x30>
 	<description><![CDATA[STARI FILMOVI. + URL]]></description>
@@ -252,8 +252,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>PINK ACTION</title>
-	<stream_url><![CDATA[http://149.255.39.122/aasd/8804/index.m3u8]]></stream_url> 
+	<title>Pink Action 2</title>
+	<stream_url><![CDATA[hhttp://pinkovi.hits2hits.com/fastv_2psh/PinkAction2global_rly_greece_103/hits2hits.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
@@ -261,8 +261,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>PINK FILM</title>
-	<stream_url><![CDATA[http://85.114.139.20:2043/]]></stream_url> 
+	<title>Pink Action 3</title>
+	<stream_url><![CDATA[http://pinkovi.hits2hits.com/fastv_2psh/PinkAction3global_rly_greece_103/hits2hits.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
@@ -270,8 +270,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>PINK PREMIUM</title>
-	<stream_url><![CDATA[http://85.114.139.20:17087/]]></stream_url> 
+	<title>Pink Horror</title>
+	<stream_url><![CDATA[http://pinkovi.hits2hits.com/fastv_2psh/PinkHorrorglobal_rly_greece_103/hits2hits.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
@@ -279,8 +279,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>PINK HORROR</title>
-	<stream_url><![CDATA[http://85.114.139.20:2038/]]></stream_url> 
+	<title>Pink Movies 2</title>
+	<stream_url><![CDATA[http://pinkovi.hits2hits.com/fastv_2psh/PinkMovies2global_rly_greece_109/hits2hits.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
@@ -288,8 +288,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>PINK MOVIES 2</title>
-	<stream_url><![CDATA[http://85.114.139.20:2019/]]></stream_url> 
+	<title>Pink Movies 3</title>
+	<stream_url><![CDATA[http://pinkovi.hits2hits.com/fastv_2psh/PinkMovies3global_rly_greece_109/hits2hits.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
@@ -297,8 +297,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>PINK MOVIES 3</title>
-	<stream_url><![CDATA[http://85.114.139.20:2020/]]></stream_url> 
+	<title>Pink Premium</title>
+	<stream_url><![CDATA[http://pinkovi.hits2hits.com/fastv_2psh/PinkPremiumglobal_rly_greece_103/hits2hits.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
@@ -306,8 +306,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>PINK ACTION 2</title>
-	<stream_url><![CDATA[http://85.114.139.20:2021/]]></stream_url> 
+	<title>MOVIES 4</title>
+	<stream_url><![CDATA[http://93.184.221.133/00573D/311/311-0.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
@@ -315,53 +315,26 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>PINK ACTION 3</title>
-	<stream_url><![CDATA[http://85.114.139.20:2022/]]></stream_url> 
+	<title>BALKAN</title>
+	<stream_url><![CDATA[http://62.112.54.4/hls/al_jaz_balkan.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
-	<description><![CDATA[HTTP STREAM]]></description>
-	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>PINK COMEDY</title>
-	<stream_url><![CDATA[http://85.114.139.20:2040/]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
-	<description><![CDATA[HTTP STREAM]]></description>
-	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>MGM</title>
-	<stream_url><![CDATA[http://202.75.23.35:8800/live/ch40/01.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
-	<description><![CDATA[HTTP STREAM]]></description>
-	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>VH1</title>
-	<stream_url><![CDATA[http://iptv.lan.ua:8129/]]></stream_url>
-	<video_type>http</video_type>
-	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
-	<description><![CDATA[HTTP STREAM]]></description>
-	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>VH1 Europe</title>
-	<stream_url><![CDATA[http://46.44.3.180:2323/udp/224.0.90.141:1234]]></stream_url>
-	<video_type>http</video_type>
-	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
 	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
 	<category_id>1</category_id>
 </channel>
 <channel>
 	<title>VH1 Classic</title>
-	<stream_url><![CDATA[http://46.44.3.180:2323/udp/224.0.90.40:1234]]></stream_url>
+	<stream_url><![CDATA[http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>VH-1</title>
+	<stream_url><![CDATA[http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
@@ -369,8 +342,35 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>MTV Rock</title>
-	<stream_url><![CDATA[http://85.25.43.30:8238]]></stream_url>
+	<title>MTV Rocks</title>
+	<stream_url><![CDATA[http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>MTV Hits</title>
+	<stream_url><![CDATA[http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>CBS Action</title>
+	<stream_url><![CDATA[http://93.184.221.133/00573D/711/711-0.m3u8]]></stream_url>
+	<video_type>http</video_type>
+	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
+	<description><![CDATA[HTTP STREAM]]></description>
+	<browser_url><![CDATA[http://feeds.feedburner.com/natgeotv/ru/schedule/ngc]]></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>CBS Drama</title>
+	<stream_url><![CDATA[http://93.184.221.133/00573D/712/712-0.m3u8]]></stream_url>
 	<video_type>http</video_type>
 	<logo_30x30>http://upload.wikimedia.org/wikipedia/en/5/58/MTV_Rocks_logo_2013.png</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
