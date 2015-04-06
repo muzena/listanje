@@ -1,33 +1,4 @@
 #EXTM3U
-#EXTINF:-1,MARSEILLE - PSG
-#EXTINF:-1,MARSEILLE - PSG
-http://188.138.9.228:8023
-#EXTINF:-1,MARSEILLE - PSG
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1,MARSEILLE - PSG
-http://80.77.52.6:4314/udp/230.0.4.1:12345
-#EXTINF:-1,MARSEILLE - PSG
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8
-#EXTINF:-1,CELTA VIGO - BARCELONA
-#EXTINF:-1,CELTA VIGO - BARCELONA
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_FUTBALL1SD/variant.m3u8?version=2
-#EXTINF:-1,CELTA VIGO - BARCELONA
-http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
-#EXTINF:-1,CELTA VIGO - BARCELONA
-http://91.109.20.227:8080/TV4016?ainroua2021HD
-#EXTINF:-1,CELTA VIGO - BARCELONA
-#EXTINF:-1,CELTA VIGO - BARCELONA
-rtmp://217.174.227.20/webtv/ch004_sd
-#EXTINF:-1,CELTA VIGO - BARCELONA
-#EXTINF:-1,RIVER PLATE - SAN LORENZO ace
-acestream://7d8cd8a8f5feac300db5917db833790c34af99e0
-#EXTINF:-1,RIVER PLATE - SAN LORENZO ace
-acestream://5cf38454ebf2ffa99f8793ba138d2e7e1ee89afe8
-#EXTINF:-1,RIVER PLATE - SAN LORENZO
-#EXTINF:-1,RIVER PLATE - SAN LORENZO
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
-#EXTINF:-1,RIVER PLATE - SAN LORENZO
-http://91.109.20.227:8080/TV4017?ainroua2021HD
 #EXTINF:0,BBC Sport
 http://93.184.221.133/00573D/1104/1104-0.m3u8
 #EXTINF:0,British Eurosport
@@ -50,8 +21,6 @@ http://93.184.221.133/00573D/1084/1084-0.m3u8
 http://93.184.221.133/00573D/1222/1222-0.m3u8
 #EXTINF:0,EURONEWS
 http://93.184.221.133/00573D/346/346-0.m3u8
-#EXTINF:0,DRAMA CHANNEL
-http://93.184.221.133/00573D/1348/1348-0.m3u8
 #EXTINF:0,DISCOVERY EUROPE
 http://93.184.221.133/00573D/1347/1347-0.m3u8
 #EXTINF:0,DISCOVERY HISTORY
@@ -814,7 +783,6 @@ http://93.184.221.133/00573D/837/837-0.m3u8
 http://62.112.54.4/hls/arena2.m3u8
 #EXTINF:-1,Arenasport 3
 http://62.112.54.4/hls/arena1.m3u8
-#EXTINF:-1, BT Sport 1
 #EXTINF:-1,Eurosport 1 (Dual Audio)
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2
 #EXTINF:-1,Eurosport 1 HD (Dual Audio)
@@ -947,7 +915,6 @@ http://uk4.internet-radio.com:30884/
 http://50.7.69.170:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1419880468
 #EXTINF:-1, Al Jazeera
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_828.m3u8
-#EXTINF:-1, Al Jazeera Balkans
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png", Animal Planet
 http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
 #EXTINF:-1, BBC 1
@@ -1000,7 +967,6 @@ http://93.184.221.133/00573D/1093/1093-0.m3u8
 http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
 #EXTINF:-1, HBO
 http://bit.do/2Y2Z
-#EXTINF:-1, HBO Films
 #EXTINF:-1, History Channel
 http://bit.do/22GL
 #EXTINF:-1, Horse&Country
@@ -1047,7 +1013,6 @@ http://62.112.54.4/hls/arena2.m3u8
 http://62.112.54.4/hls/arena1.m3u8
 #EXTINF:-1, BBC Sport
 http://93.184.221.133/00573D/1104/1104-0.m3u8
-#EXTINF:-1, beIN Sports 4
 #EXTINF:-1, BigTen Network
 http://goo.gl/uANOuK
 #EXTINF:-1, BOX Nation
@@ -1056,9 +1021,6 @@ http://93.184.221.133/00573D/1222/1222-0.m3u8
 http://93.184.221.133/00573D/1210/1210-0.m3u8
 #EXTINF:-1, British Eurosport 2 
 http://93.184.221.133/00573D/1211/1211-0.m3u8
-#EXTINF:-1, BT Sport 1
-#EXTINF:-1, BT Sport 2
-#EXTINF:-1, ESPN 
 #EXTINF:-1, ESPN 2
 http://bit.do/2XWt
 #EXTINF:-1, ESPN 3
@@ -1085,9 +1047,6 @@ http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h
 rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
 #EXTINF:-1, Motorsport Australia 
 http://motorsport.hopto.org:8080/
-#EXTINF:-1, NBA TV
-#EXTINF:-1, NBC Golf
-#EXTINF:-1, NBC Sport Network
 #EXTINF:-1, ORF SPORT +
 http://194.232.200.119/ipad/orfs_q6a/orf.sdp/playlist.m3u8?wowzasessionid=1|X-Forwarded-For=195.186.136.21 
 #EXTINF:-1, Pac 12 National
@@ -1098,16 +1057,8 @@ rtmp://rrbalancer.broadcast.tneg.de:1935/pw/ruk/ruk
 mmsh://212.162.68.163:80/raisport+
 #EXTINF:-1, Rai Sport 2
 mmsh://212.162.68.163:80/raisport2
-#EXTINF:-1, Silk Sports 1
-#EXTINF:-1, Silk Sports 2
-#EXTINF:-1, Silk Sports 3
 #EXTINF:-1, SkySports 1
 http://bit.do/3bwB
-#EXTINF:-1, SkySports 2 
-#EXTINF:-1, SkySports 3 
-#EXTINF:-1, SkySports 4 
-#EXTINF:-1, SkySports 5 
-#EXTINF:-1, SkySports F1
 #EXTINF:-1, SkySports News
 http://93.184.221.133/00573D/183/183-0.m3u8
 #EXTINF:-1, SPORT TIME TV 1HD
@@ -1150,7 +1101,6 @@ http://62.112.54.4/hls/cmc.m3u8
 http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
 #EXTINF:-1, Jazz TV 
 rtmp://149.11.34.78/live/jazztv.stream
-#EXTINF:-1, MTV
 #EXTINF:-1, MTV Music
 http://93.184.221.133/00573D/1345/1345-0.m3u8
 #EXTINF:-1, MTV Rocks
