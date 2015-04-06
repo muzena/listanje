@@ -253,7 +253,7 @@
 </channel>
 <channel>
 	<title>Pink Action 2</title>
-	<stream_url><![CDATA[hhttp://pinkovi.hits2hits.com/fastv_2psh/PinkAction2global_rly_greece_103/hits2hits.m3u8]]></stream_url> 
+	<stream_url><![CDATA[http://pinkovi.hits2hits.com/fastv_2psh/PinkAction2global_rly_greece_103/hits2hits.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>http://www.gradiska.ba/tvprogram/img/htv2.jpg</logo_30x30>
 	<description><![CDATA[HTTP STREAM]]></description>
