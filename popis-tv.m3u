@@ -1129,6 +1129,10 @@ http://167.114.65.74/hls/fa.m3u8
 http://bit.do/2mYQ
 #EXTINF:-1, South Park 24/7
 http://bit.do/2mYX
+#EXTINF:-1, Private
+http://185.38.12.20:8088/private/
+#EXTINF:-1, Russian night
+http://185.38.12.20:8088/rusnoch/
 #EXTINF:0,TSN1 HD
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
 #EXTINF:0,TSN2 HD
@@ -1137,4 +1141,3 @@ http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8
 http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
 #EXTINF:0,TSN4 HD
 http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
-
