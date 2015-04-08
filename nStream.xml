@@ -35,8 +35,8 @@
 	<category_id>2</category_id>
 </channel>
 <channel>
-	<title>Fox Action Movies</title>
-	<stream_url><![CDATA[http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h&hpgdisco_m3u8]]></stream_url> 
+	<title>Sportitalia</title>
+	<stream_url><![CDATA[http://81.92.105.132:5555/pl.m3u8?channel=539]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
