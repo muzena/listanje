@@ -24,62 +24,7 @@
 <category>
 	<category_id>6</category_id>
 	<category_title>SOVOK.TV TEST</category_title>
-</category>	
-<channel>
-	<title>NRJ Dance</title>
-	<stream_url><![CDATA[rtmp://nrjlivefs.fplive.net/nrjlive-live&id=nrjdance]]></stream_url> 
-	<logo_30x30>nrjdance.jpg</logo_30x30>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>NRJ Paris</title>
-	<stream_url><![CDATA[rtmp://nrjlivefs.fplive.net/nrjlive-live&id=nrjparis]]></stream_url> 
-	<logo_30x30>nrjparis.jpg</logo_30x30>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>NRJ Pure</title>
-	<stream_url><![CDATA[rtmp://nrjlivefs.fplive.net/nrjlive-live&id=nrjpure]]></stream_url> 
-	<logo_30x30>nrjpure.jpg</logo_30x30>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>NRJ Pop</title>
-	<stream_url><![CDATA[rtmp://nrjlivefs.fplive.net/nrjlive-live&id=nrjpop]]></stream_url> 
-	<logo_30x30>nrjpop.jpg</logo_30x30>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>NRJ Urban</title>
-	<stream_url><![CDATA[rtmp://nrjlivefs.fplive.net/nrjlive-live&id=nrjurban]]></stream_url> 
-	<video_type>flash_rtmp</video_type>
-	<logo_30x30>nrjurban.jpg</logo_30x30>
-	<description>rtmp stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>1Music Baltic</title>
-	<stream_url><![CDATA[rtmp://80.232.172.37/rtplive&id=vlc.sdp]]></stream_url> 
-	<logo_30x30>perviy_muzykalnyi_telekanal.jpg</logo_30x30>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Top 40</title>
-	<stream_url><![CDATA[rtmp://fms.105.net:1935/live&id=charts1]]></stream_url> 
-	<logo_30x30>top40.jpg</logo_30x30>
-	<description><![CDATA[rtmp stream<br><h1>theStreamDB.com</h1>]]></description>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Radio 105 Network</title>
-	<stream_url><![CDATA[rtmp://fms.105.net:1935/live/&id=105Test1]]></stream_url> 
-	<video_type>flash_rtmp</video_type>
-	<logo_30x30>radio105network.jpg</logo_30x30>
-	<description><![CDATA[rtmp stream<br><h1>theStreamDB.com</h1>]]></description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
+</category>
 <channel>
 	<title>Fox Action Movies HD</title>
 	<stream_url><![CDATA[http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h]]></stream_url> 
