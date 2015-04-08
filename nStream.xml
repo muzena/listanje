@@ -26,17 +26,17 @@
 	<category_title>SOVOK.TV TEST</category_title>
 </category>
 <channel>
-	<title>Rai Sport 2</title>
-	<stream_url><![CDATA[http://81.92.105.132:5555/pl.m3u8?channel=535]]></stream_url> 
+	<title>Fox Action Movies HD</title>
+	<stream_url><![CDATA[http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h]]></stream_url> 
 	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
+	<logo_30x30>Fox.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>2</category_id>
 </channel>
 <channel>
-	<title>Sportitalia</title>
-	<stream_url><![CDATA[http://81.92.105.132:5555/pl.m3u8?channel=539]]></stream_url> 
+	<title>Fox Action Movies</title>
+	<stream_url><![CDATA[http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h&hpgdisco_m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
