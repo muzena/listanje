@@ -24,7 +24,16 @@
 <category>
 	<category_id>6</category_id>
 	<category_title>SOVOK.TV TEST</category_title>
-</category>	
+</category>
+<channel>
+	<title>Fox Action Movies HD</title>
+	<stream_url><![CDATA[http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>Fox.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>2</category_id>
+</channel>
 <channel>
 	<title> Boomerang</title>
 	<stream_url><![CDATA[http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8?version=2]]></stream_url> 
