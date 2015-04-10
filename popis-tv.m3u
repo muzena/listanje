@@ -80,37 +80,37 @@ http://62.112.54.4/hls/svet-plus.m3u8
 #EXTINF:-1, B92
 http://stream.b92.net:7999/tv-b92.ogg
 #EXTINF:-1, RTS 1
-http://109.122.121.21/live/rts_1.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/rts_1.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, RTS 2
-http://109.122.121.21/live/rts_2.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/rts_2.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, PINK
-http://109.122.121.21/live/pink.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/pink.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, HAPPY
-http://109.122.121.21/live/happy.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/happy.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, SOS
-http://109.122.121.21/live/sos.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/sos.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, B 92
-http://109.122.121.21/live/b92.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/b92.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, PRVA
-http://109.122.121.21/live/prva.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/prva.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, STUDIO B
-http://109.122.121.21/live/studio_b.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/studio_b.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, SKY PLUS (Naša TV)
-http://109.122.121.21/live/sky_plus.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/sky_plus.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, PALMA
-http://109.122.121.21/live/palma.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/palma.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, RTCG SAT
-http://109.122.121.21/live/rtcg.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/rtcg.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, RTRS
-http://109.122.121.21/live/rtrs.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/rtrs.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, HTV 1
-http://109.122.121.21/live/hrt_1.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/hrt_1.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, HTV 2
-http://109.122.121.21/live/hrt_2.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/hrt_2.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, RTV 1
-http://109.122.121.21/live/rtv_1.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/rtv_1.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, KANAL 3
-http://109.122.121.21/live/kanal_3.stream/playlist.m3u8?hash=4e4b439006950688cd121613806b52310245a4b6
+http://109.122.121.21/live/kanal_3.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #‎EXTINF‬:-1, HAYAT PLUS
 http://81.92.105.132:5555/pl.m3u8?channel=153
 #EXTINF:-1, Hayat Folk
@@ -736,6 +736,7 @@ http://iptv4.zargacum.net/iptv/KEKNKTM4T4/107/index.m3u8
 #EXTINF:-1, NTV+ Football 2
 http://iptv4.zargacum.net/iptv/EP36AAGWQQ7RT6/530/index.m3u8
 #EXTINF:-1, NTV+ Football 2 HD
+#EXTINF:-1, NTV+ Football 2 HD
 http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
 #EXTINF:-1, NTV+ Football 3
 http://iptv4.zargacum.net/iptv/KEKNKTM4T4/522/index.m3u8
@@ -769,6 +770,26 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
 #EXTINF:-1, SPORT TIME TV7 HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+#EXTINF: 0 , Sky Sports 1
+http://192.99.24.176:8080/Skyy1/Skky1/index.m3u8
+#EXTINF: 0 , Sky Sports 2
+http://192.99.24.176:8080/skySpo02L/sKk0oYSpll0Wo20o20w/index.m3u8
+#EXTINF: 0 , Sky Sports 3
+http://192.99.24.176:8080/skkY3/sk303/index.m3u8
+#EXTINF: 0 , Sky Sports 4
+http://192.99.24.176:8080/skY4/sSk4/index.m3u8
+#EXTINF: 0 , Sky Sports 5
+http://192.99.24.176:8080/skY5/skK5/index.m3u8
+#EXTINF: 0 , Sky Sports F1
+http://192.99.24.176:8080/skfF1/skfF1/index.m3u8
+#EXTINF: 0 , BT Sports 1
+http://192.99.24.176:8080/BTt1/BTt1/index.m3u8
+#EXTINF:-1, BEIN SPORTS 1 HD
+http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd1
+#EXTINF:-1, BEIN SPORTS 2 HD
+http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd2
+#EXTINF:-1, BEIN SPORTS 3 HD
+http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd3
 #EXTINF:-1, TSN 1
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
 #EXTINF:-1, TSN 3
