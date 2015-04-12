@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1, ABC7 USA
+http://93.184.221.133/00573D/1086/1086-0.m3u8
+#EXTINF:-1, CİNEMA ENG
+http://185.27.237.105:8082/TV0118
+#EXTINF:-1, CİNEMA ENG
+http://185.27.237.105:8082/TV0111
+#EXTINF:-1, discovery channel ENG
+http://185.27.237.105:8082/TV0059
+#EXTINF:-1, discovery id ENG
+http://185.27.237.105:8082/TV0092
+#EXTINF:-1, discoverychannel ENG
+http://185.27.237.104:8082/TV0059
+#EXTINF:-1, diseny ENG
+http://185.27.237.105:8082/TV0110
+#EXTINF:-1, Diseny xd ENG
+http://185.27.237.105:8082/TV0112
+#EXTINF:-1, itv choice  ENG
+http://185.27.237.104:8082/TV0055
+#EXTINF:-1, itv choice ENG
+http://185.27.237.105:8082/TV0055
 #EXTINF:-1, Boomerang
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8?version=2
 #EXTINF:-1, Boomerang
@@ -701,10 +721,12 @@ http://5.128.139.50:81/udp/239.1.5.15:1234
 http://93.184.221.133/00573D/236/236-0.m3u8
 #EXTINF:-1, 3Sport 2
 http://93.184.221.133/00573D/837/837-0.m3u8
-#EXTINF:-1, Arenasport 2
-http://62.112.54.4/hls/arena2.m3u8
-#EXTINF:-1, Arenasport 3
-http://62.112.54.4/hls/arena1.m3u8
+#EXTINF:-1, BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+#EXTINF:-1, Boxnation
+http://93.184.221.133/00573D/1222/1222-0.m3u8
+#EXTINF:-1, BT Sport 1
+http://192.99.24.176:8080/BTt1/BTt1/index.m3u8
 #EXTINF:-1, Eurosport 1 (Dual Audio)
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2
 #EXTINF:-1, Eurosport 1 HD (Dual Audio)
@@ -736,6 +758,7 @@ http://iptv4.zargacum.net/iptv/KEKNKTM4T4/107/index.m3u8
 #EXTINF:-1, NTV+ Football 2
 http://iptv4.zargacum.net/iptv/EP36AAGWQQ7RT6/530/index.m3u8
 #EXTINF:-1, NTV+ Football 2 HD
+#EXTINF:-1, NTV+ Football 2 HD
 http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
 #EXTINF:-1, NTV+ Football 3
 http://iptv4.zargacum.net/iptv/KEKNKTM4T4/522/index.m3u8
@@ -747,6 +770,14 @@ http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/variant.m3u8?version=2
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTVPLUSBASKETBOL/variant.m3u8?version=2
 #EXTINF:-1, NTV+ Football
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_FUTBALL/bw480000/variant.m3u8?version=2
+#EXTINF:-1, PAC National HD
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1, PAC-12 Net (Bay Area) HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1, PAC-12 Net (Oregon) HD
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1, PAC-12 Full HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1, Silk Sport HD 1
 http://80.77.52.6:4314/udp/226.0.0.7:12345
 #EXTINF:-1, Silk Sport HD 2
@@ -859,10 +890,6 @@ http://uk4.internet-radio.com:30884/
 http://213.5.58.58:1935/hrt_live/smil:hrt1.smil/chunklist_w367191541_b1556000.m3u8
 #EXTINF:0, HRT 2
 http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/chunklist_w614756691_b1256000.m3u8
-#EXTINF:0, RTL
-http://62.112.54.4/hls/rtl.m3u8
-#EXTINF:0, NOVA TV
-http://62.112.54.4/hls/nova.m3u8
 #EXTINF:0, HRT 3
 http://213.5.58.58:1935/hrt_live/smil:hrt3.smil/chunklist_w723445206_b1256000.m3u8
 #EXTINF:0, HRT 4
@@ -873,8 +900,10 @@ http://iphone-streaming.ustream.tv/ustreamVideo/12591767/streams/live/playlist.m
 http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h&hpgdisco_m3u8
 #EXTINF:-1, National Geographic
 http://93.184.221.133/00573D/338/338-0.m3u8
+#EXTINF:-1, National Geographic 
+http://hls.svc.moyo.tv/hls/CH_NATGEO/variant.m3u8?version=2
 #EXTINF:-1, NatGeo Wild
-http://techstream.dynns.com:1935/ind/netgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTUgMTA6NDg6MTYgQU0maGFzaF92YWx1ZT1rbk9yK3lnRWcvYTJIbFhMdXN2VUN3PT0mdmFsaWRtaW51dGVzPTI
+http://hls.svc.moyo.tv/hls/CH_NATGEOWILD/variant.m3u8?version=2
 #EXTINF:-1, Discovery Channel
 http://93.184.221.133/00573D/1347/1347-0.m3u8
 #EXTINF:-1, Animal Planet
@@ -889,26 +918,18 @@ http://cdn.live.simplestream.com/coder5/coder.channels.channel5/hls/4/playlist.m
 http://93.184.221.133/00573D/294/294-0.m3u8
 #EXTINF:-1, Dave
 http://93.184.221.133/00573D/290/290-0.m3u8
-#EXTINF:-1, A&E
-http://50.7.69.170:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1419880468
 #EXTINF:-1, NASA TV 
 http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8
 #EXTINF:-1, JimJam
 http://46.149.185.5:30036
 #EXTINF:-1, Baby TV
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8
+#EXTINF:-1, Nickelodeon
+http://94.198.255.211:5555/pl.m3u8?channel=35
 #EXTINF:-1, Cartoon Network
 http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2
-#EXTINF:-1, Disney Channel
-http://techstream.dynns.com:1935/ind/disney/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMTUgNjowNzo0NiBQTSZoYXNoX3ZhbHVlPXplc1E2Ulg3U2VlMU1QeDhrb2VPaVE9PSZ2YWxpZG1pbnV0ZXM9Mg
 #EXTINF:-1, BBC Entertainment
 http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
-#EXTINF:-1, HBO
-http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
-#EXTINF:-1, Showtime
-http://50.7.69.186:1935/edge/_definst_/bwbop58ixz281wv/manifest.m3u8?wowzasessionid=1419875151
-#EXTINF:-1, HBO Comedy
-http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
 #EXTINF:-1, CBS Action
 http://93.184.221.133/00573D/711/711-0.m3u8
 #EXTINF:-1, CBS Drama
@@ -919,12 +940,30 @@ http://93.184.221.133/00573D/713/713-0.m3u8
 http://93.184.221.133/00573D/1460/1460-0.m3u8
 #EXTINF:-1, CBS 2 
 http://93.184.221.133/00573D/1084/1084-0.m3u8
+#EXTINF:-1, Sony SCI-FI
+http://hls.svc.moyo.tv/hls/CH_SCI-FI/variant.m3u8?version=2
 #EXTINF:-1, FOX 11 
 http://93.184.221.133/00573D/1093/1093-0.m3u8
+#EXTINF:-1, Fox life
+http://hls.svc.moyo.tv/hls/CH_FOXLIVE/variant.m3u8?version=2
+#EXTINF:-1, Fox
+http://hls.svc.moyo.tv/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:-1, FOX MOVIES 
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1, Fox Action
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1, FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+#EXTINF:-1, FOX MOVIES
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1, Fox Family
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+#EXTINF:-1, FOX CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+#EXTINF:-1, Universal channel
+http://hls.svc.moyo.tv/hls/CH_UNIVERSAL/variant.m3u8?version=2
 #EXTINF:-1, Movies 4 Men
 http://93.184.221.133/00573D/311/311-0.m3u8
-#EXTINF:-1, CMC
-http://62.112.54.4/hls/cmc.m3u8
 #EXTINF:-1, VH-1
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8
 #EXTINF:-1, VH1 Classic
@@ -953,6 +992,10 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:-1, VEVO 3 
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1, BN SAT
+http://94.198.255.211:5555/pl.m3u8?channel=158
+#EXTINF:-1, BN Music
+http://94.198.255.211:5555/pl.m3u8?channel=157
 #EXTINF:-1, Al Jazeera
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_828.m3u8
 #EXTINF:-1, BBC World
@@ -966,7 +1009,7 @@ http://93.184.221.133/00573D/1104/1104-0.m3u8
 #EXTINF:-1, BBC 1
 http://93.184.221.133/00573D/1277/1277-0.m3u8
 #EXTINF:-1, DW-TV
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_DEUTSCHEWELLE/variant.m3u8?version=2
+http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8
 #EXTINF:-1, HSN
 rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31+playpath=mp4:420p500kB31
 #EXTINF:-1, RTE 1
@@ -977,10 +1020,6 @@ http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
 http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
 #EXTINF:-1, Sportska Televizija
 http://80.80.58.168:1935/sporttv/smil:sptv.smil/playlist.m3u8
-#EXTINF:-1, Arena Sport 2
-http://62.112.54.4/hls/arena2.m3u8
-#EXTINF:-1, Arena Sport 3
-http://62.112.54.4/hls/arena1.m3u8
 #EXTINF:-1, British Eurosport 
 http://93.184.221.133/00573D/1210/1210-0.m3u8
 #EXTINF:-1, British Eurosport 2 
@@ -999,6 +1038,8 @@ http://bit.do/2XWt
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?HasBahCa
 #EXTINF:-1, SkySports News
 http://93.184.221.133/00573D/183/183-0.m3u8
+#EXTINF:-1, CANAL+ SPORT
+http://stream4.latvdefrance.com/demo/canalsport.m3u8
 #EXTINF:-1, 3Sport 1
 http://93.184.221.133/00573D/236/236-0.m3u8
 #EXTINF:-1, 3Sport 2
@@ -1007,6 +1048,28 @@ http://93.184.221.133/00573D/837/837-0.m3u8
 http://goo.gl/uANOuK
 #EXTINF:-1, BOX Nation
 http://93.184.221.133/00573D/1222/1222-0.m3u8
+#EXTINF:-1, NTV+ Football 1
+http://iptv4.zargacum.net/iptv/KEKNKTM4T4/124/index.m3u8
+#EXTINF:-1, NTV+ Football 1 HD
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/ntvfootball/ntvfootball/ntvfootball.m3u8?seyirturk=fb:simpletvipadresleri3
+#EXTINF:-1, NTV+ Football 1 HD
+http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1, NTV+ Sport
+http://iptv4.zargacum.net/iptv/KEKNKTM4T4/107/index.m3u8
+#EXTINF:-1, NTV+ Football 2
+http://iptv4.zargacum.net/iptv/EP36AAGWQQ7RT6/530/index.m3u8
+#EXTINF:-1, NTV+ Football 2 HD
+http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1, NTV+ Football 3
+http://iptv4.zargacum.net/iptv/KEKNKTM4T4/522/index.m3u8
+#EXTINF:-1, NTV+ Football 3 HD
+http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1, NTV+ sport plus
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/variant.m3u8?version=2
+#EXTINF: 0, NTV+ Basketball
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NTVPLUSBASKETBOL/variant.m3u8?version=2
+#EXTINF:-1, NTV+ Football
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_FUTBALL/bw480000/variant.m3u8?version=2
 #EXTINF:-1, Extreme Sports
 http://178.49.132.73/streaming/extreme_sports/tvrec/playlist.m3u8
 #EXTINF:-1, Fight club
