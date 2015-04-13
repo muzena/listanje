@@ -4589,6 +4589,24 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
+	<title>Private</title>
+	<stream_url><![CDATA[http://185.38.12.20:8088/private/]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Russian night</title>
+	<stream_url><![CDATA[http://185.38.12.20:8088/rusnoch/]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
 	<title>Viasat Sport</title>
 	<stream_url><![CDATA[http://178.49.132.73/streaming/viasat_sport/tvrec/playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
