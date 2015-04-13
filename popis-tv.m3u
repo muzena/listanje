@@ -1,23 +1,57 @@
 #EXTM3U
+#EXTINF:-1, 24/7 Action Movies
+http://50.7.69.170:1935/edge/_definst_/8t7yzaodzxwqguu/playlist.m3u8?wowzasessionid=1420172322
+#EXTINF:-1, 24/7 HD Movies 1
+http://50.7.69.170:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902
+#EXTINF:-1, 24/7 HD Movies 2
+http://50.7.69.170:1935/edge/_definst_/3mu6xhoy4xa8l7w/playlist.m3u8?wowzasessionid=1420172620
+#EXTINF:-1, CBS HD
+http://50.7.69.170:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048
+#EXTINF:-1, Discovery Channel HD
+http://50.7.69.170:1935/edge/_definst_/ishyd3sopok3p27/chunklist.m3u8?wowzasessionid=1419872569
+#EXTINF:-1, Discovery Channel HD
+http://50.7.69.170:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+#EXTINF:-1, Food Network HD
+http://50.7.69.170:1935/edge/_definst_/ibnnu7537h3ax6e/playlist.m3u8?wowzasessionid=1419873022
+#EXTINF:-1, FOX News HD
+http://50.7.69.170:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
+#EXTINF:-1, Hallmark HD
+http://50.7.69.170:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+#EXTINF:-1, HBO Comedy
+http://50.7.69.170:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
+#EXTINF:-1, HBO HD
+http://50.7.69.170:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+#EXTINF:-1, History Channel (Europe)
+http://50.7.69.170:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
+#EXTINF:-1, I.D.
+http://50.7.69.170:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
+#EXTINF:-1, Nat GEO HD
+http://50.7.69.170:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
+#EXTINF:-1, NBC Sports Network HD
+http://50.7.69.170:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:-1, StarZ Movie Channel
+http://50.7.69.170:1935/edge/_definst_/8g7x80ozu6hz2ds/playlist.m3u8?wowzasessionid=1419874554
+#EXTINF:-1, TNT HD
+http://50.7.69.170:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
 #EXTINF:-1, ABC7 USA
 http://93.184.221.133/00573D/1086/1086-0.m3u8
-#EXTINF:-1, CİNEMA ENG
+#EXTINF:-1, Cinema
 http://185.27.237.105:8082/TV0118
-#EXTINF:-1, CİNEMA ENG
+#EXTINF:-1, Cinema
 http://185.27.237.105:8082/TV0111
-#EXTINF:-1, discovery channel ENG
+#EXTINF:-1, Discovery channel
 http://185.27.237.105:8082/TV0059
-#EXTINF:-1, discovery id ENG
+#EXTINF:-1, discovery id
 http://185.27.237.105:8082/TV0092
-#EXTINF:-1, discoverychannel ENG
+#EXTINF:-1, discoverychannel
 http://185.27.237.104:8082/TV0059
-#EXTINF:-1, diseny ENG
+#EXTINF:-1, diseny
 http://185.27.237.105:8082/TV0110
-#EXTINF:-1, Diseny xd ENG
+#EXTINF:-1, Diseny xd
 http://185.27.237.105:8082/TV0112
-#EXTINF:-1, itv choice  ENG
+#EXTINF:-1, itv choice
 http://185.27.237.104:8082/TV0055
-#EXTINF:-1, itv choice ENG
+#EXTINF:-1, itv choice
 http://185.27.237.105:8082/TV0055
 #EXTINF:-1, Boomerang
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8?version=2
@@ -47,56 +81,6 @@ http://213.5.58.58:1935/hrt_live/smil:hrt3.smil/nesto.m3u8
 http://213.5.58.58:1935/hrt_live/smil:hrt4.smil/nesto.m3u8
 #EXTINF:-1, HRT 1
 http://62.112.54.4/hls/hrt1.m3u8
-#EXTINF:-1, HRT 3
-http://62.112.54.4/hls/hrt3.m3u8
-#EXTINF:-1, HRT 4
-http://62.112.54.4/hls/hrt4.m3u8
-#EXTINF:-1, RTL kockica
-http://62.112.54.4/hls/hrt2.m3u8
-#EXTINF:-1, RTL
-http://62.112.54.4/hls/rtl.m3u8
-#EXTINF:-1, CMC
-http://62.112.54.4/hls/cmc.m3u8
-#EXTINF:-1, Nova TV
-http://62.112.54.4/hls/nova.m3u8
-#EXTINF:-1, BN SAT
-http://62.112.54.4/hls/bn-sat.m3u8
-#EXTINF:-1, BN-BIH
-http://62.112.54.4/hls/bn-bih.m3u8
-#EXTINF:-1, Hayat FOLK TV
-http://62.112.54.4/hls/hayatfolk-tv.m3u8
-#EXTINF:-1, Hayat PLUS
-http://62.112.54.4/hls/hayat-plus.m3u8
-#EXTINF:-1, Hayatovci
-http://62.112.54.4/hls/hayatovci.m3u8
-#EXTINF:-1, OBN
-http://62.112.54.4/hls/obn.m3u8
-#EXTINF:-1, BN Music
-http://62.112.54.4/hls/bn-music.m3u8
-#EXTINF:-1, Grand Narodna
-http://62.112.54.4/hls/grand-tv.m3u8
-#EXTINF:-1, Al Jazeera Balkan
-http://62.112.54.4/hls/al_jaz_balkan.m3u8
-#EXTINF:-1, DM
-http://62.112.54.4/hls/dm-sat.m3u8
-#EXTINF:-1, RTRS
-http://62.112.54.4/hls/rtrs.m3u8
-#EXTINF:-1, RTS SAT
-http://62.112.54.4/hls/rts-sat.m3u8
-#EXTINF:-1, Duga TV
-http://62.112.54.4/hls/duga-tv.m3u8
-#EXTINF:-1, OTV Valentino
-http://62.112.54.4/hls/otv-valentino.m3u8
-#EXTINF:-1, Posavina TV
-http://62.112.54.4/hls/posavina-tv.m3u8
-#EXTINF:-1, K3
-http://62.112.54.4/hls/k3.m3u8
-#EXTINF:-1, KCN 1
-http://62.112.54.4/hls/kcn-music-1.m3u8
-#EXTINF:-1, KCN Music 2
-http://62.112.54.4/hls/kcn-music-2.m3u8
-#EXTINF:-1, KCN Svet+ 3
-http://62.112.54.4/hls/svet-plus.m3u8
 #EXTINF:-1, B92
 http://stream.b92.net:7999/tv-b92.ogg
 #EXTINF:-1, RTS 1
@@ -131,26 +115,6 @@ http://109.122.121.21/live/hrt_2.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa
 http://109.122.121.21/live/rtv_1.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
 #EXTINF:-1, KANAL 3
 http://109.122.121.21/live/kanal_3.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c
-#EXTINF:-1, HAYAT PLUS
-http://81.92.105.132:5555/pl.m3u8?channel=153
-#EXTINF:-1, Hayat Folk
-http://81.92.105.132:5555/pl.m3u8?channel=154
-#EXTINF:-1, HAYAT TV
-http://81.92.105.132:5555/pl.m3u8?channel=155
-#EXTINF:-1, Hayat Music
-http://81.92.105.132:5555/pl.m3u8?channel=156
-#EXTINF:-1, BN Music
-http://81.92.105.132:5555/pl.m3u8?channel=157
-#EXTINF:-1, BN SAT
-http://81.92.105.132:5555/pl.m3u8?channel=158
-#EXTINF:-1, MKTV 2 Sat
-http://81.92.105.132:5555/pl.m3u8?channel=160
-#EXTINF:-1, Duga TV
-http://81.92.105.132:5555/pl.m3u8?channel=161
-#EXTINF:-1, HRT 1
-http://81.92.105.132:5555/pl.m3u8?channel=164
-#EXTINF:-1, RTS SAT
-http://81.92.105.132:5555/pl.m3u8?channel=252
 #EXTINF:-1, Pink 1
 http://pinkovi.hits2hits.com/fastv_2psh/Pinkglobal_rly_greece_109/hits2hits.m3u8
 #EXTINF:-1, Pink 2
@@ -252,7 +216,7 @@ http://5.128.139.50:81/udp/239.1.9.11:1234
 #EXTINF:0, Fox Crime
 http://93.155.252.151:59349/udp/236.1.1.148:4000
 #EXTINF:0, Fox Life
-http://95.220.137.30:81/udp/233.49.170.82:5000
+http://93.80.153.222:4022/udp/233.33.210.79:5050
 #EXTINF:0, Fox Life
 http://5.128.139.50:81/udp/239.1.3.11:1234
 #EXTINF:-1, Fox Life HD
@@ -405,7 +369,7 @@ http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8
 http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8
 #EXTINF:-1, ESPN HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8‪
-#EXTINF:-1, DISCOVERY HD
+#‎EXTINF‬:-1, DISCOVERY HD
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8
 #EXTINF:-1, HISTORY
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8
@@ -605,54 +569,22 @@ http://93.184.221.133/00573D/1222/1222-0.m3u8
 http://93.184.221.133/00573D/232/232-0.m3u8
 #EXTINF:-1, TG 4
 http://93.184.221.133/00573D/348/348-0.m3u
-#EXTINF:-1, Agro TV
-http://93.155.252.151:59349/udp/239.2.1.24:4000
-#EXTINF:-1, Animal Planet
-http://5.128.139.50:81/udp/239.1.5.3:1234
-#EXTINF:-1, Animal Planet
-http://93.155.252.151:59349/udp/239.1.1.135:4000
 #EXTINF:-1, Animal planet
 http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
 #EXTINF:-1, Animal Planet HD
-http://93.155.252.151:59349/udp/239.1.2.135:4000
-#EXTINF:-1, Animal Planet HD
-http://5.128.139.50:81/udp/239.1.17.16:1234
-#EXTINF:-1, Animal Planet HD
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_ANIMALPLANET/variant.m3u8
-#EXTINF:-1, Da Vinci Learning
-http://93.155.252.151:59349/udp/239.2.1.147:4000
 #EXTINF:-1, Discovery HD
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8
 #EXTINF:-1, Discovery Europe
 http://93.184.221.133/00573D/1347/1347-0.m3u8
 #EXTINF:-1, Discovery History
 http://93.184.221.133/00573D/1348/1348-0.m3u8
-#EXTINF:-1, Discovery Channel
-http://93.155.252.151:59349/udp/239.1.1.132:4000
-#EXTINF:-1, Discovery Channel
-http://5.128.139.50:81/udp/239.1.5.1:1234
 #EXTINF:-1, Discovery Science
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYSCIENCE//variant.m3u8?version=2
-#EXTINF:-1, Discovery Science
-http://95.220.137.30:81/udp/233.49.170.42:5000
-#EXTINF:-1, Discovery Science
-http://5.128.139.50:81/udp/239.1.5.9:1234
 #EXTINF:-1, Discovery World
-http://95.220.137.30:81/udp/233.49.170.41:5000
+http://93.80.153.222:4022/udp/233.33.210.153:5050
 #EXTINF:-1, Discovery World
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYWORLD/variant.m3u8?version=2
-#EXTINF:-1, Discovery World
-http://5.128.139.50:81/udp/239.1.2.26:1234
-#EXTINF:-1, Discovery Showcase HD
-http://93.155.252.151:59349/udp/237.2.1.69:4000
-#EXTINF:-1, Discovery Showcase HD
-http://93.155.252.151:59349/udp/239.2.1.69:4000
-#EXTINF:-1, Discovery Showcase HD
-http://5.128.139.50:81/udp/239.1.17.17:1234
-#EXTINF:-1, Fine Living
-http://93.155.252.151:59349/udp/239.1.1.179:4000
-#EXTINF:-1, History
-http://93.155.252.151:59349/udp/236.1.1.190:4000
 #EXTINF:-1, History Channel
 http://50.7.69.186:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
 #EXTINF:-1, Hunting and Fishing
@@ -662,15 +594,7 @@ http://media.infozen.cshls.lldns.net/infozen/media/media/media_1000.m3u8
 #EXTINF:-1, NASA TV HD
 http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8
 #EXTINF:-1, National Geographic
-http://5.128.139.50:81/udp/239.1.5.8:1234
-#EXTINF:-1, National Geographic
 http://93.184.221.133/00573D/338/338-0.m3u8
-#EXTINF:-1, National Geographic
-http://93.155.252.151:59349/udp/239.1.1.131:4000
-#EXTINF:-1, National Geographic HD
-http://5.128.139.50:81/udp/239.1.17.1:1234
-#EXTINF:-1, National Geographic HD
-http://93.155.252.151:59349/udp/236.2.1.68:4000
 #EXTINF:-1, National Geographic
 http://hls.svc.moyo.tv/hls/CH_NATGEO/variant.m3u8?version=2
 #EXTINF:-1, National Geographic
@@ -681,26 +605,16 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8?version=2
 http://hls.svc.moyo.tv/hls/CH_NATGEOWILD/variant.m3u8?version=2
 #EXTINF:-1, National Geographic Wild
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8?version=2
-#EXTINF:-1, National Geographic Wild
-http://5.128.139.50:81/udp/239.1.5.16:1234
-#EXTINF:-1, National Geographic Wild HD
-http://5.128.139.50:81/udp/239.1.17.6:1234
-#EXTINF:-1, National Geographic Wild HD
-http://95.220.137.30:81/udp/233.49.170.47:5000
 #EXTINF:-1, RT Documentary HD
 http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
 #EXTINF:-1, RT Documentary
 http://103.242.13.67:5000/nn_live.ts?id=rtdoc-m-h
 #EXTINF:-1, TLC
-http://93.155.252.151:59349/udp/239.2.1.91:4000
-#EXTINF:-1, TLC
-http://5.128.139.50:81/udp/239.1.3.16:1234
+http://93.80.153.222:4022/udp/233.33.210.52:5050
 #EXTINF:-1, TLC HD
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_C04_TLCHD/variant.m3u8?version=2
 #EXTINF:-1, Travel TV
 http://95.220.137.30:81/udp/233.49.170.18:5000
-#EXTINF:-1, Travel Adventure
-http://5.128.139.50:81/udp/239.1.5.7:1234
 #EXTINF:-1, Travel + Adventure HD
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8?version=2
 #EXTINF:-1, Viasat Nature
@@ -709,14 +623,6 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/bw480000/variant.m3u8?version=2
 #EXTINF:-1, Viasat History
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/bw480000/variant.m3u8?version=2
-#EXTINF:-1, Viasat Explorer
-http://93.155.252.151:59349/udp/239.2.1.124:4000
-#EXTINF:-1, Viasat Nature
-http://5.128.139.50:81/udp/239.1.5.5:1234
-#EXTINF:-1, Viasat History
-http://5.128.139.50:81/udp/239.1.5.14:1234
-#EXTINF:-1, Viasat Explorer
-http://5.128.139.50:81/udp/239.1.5.15:1234
 #EXTINF:-1, 3Sport 1
 http://93.184.221.133/00573D/236/236-0.m3u8
 #EXTINF:-1, 3Sport 2
@@ -757,6 +663,7 @@ http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
 http://iptv4.zargacum.net/iptv/KEKNKTM4T4/107/index.m3u8
 #EXTINF:-1, NTV+ Football 2
 http://iptv4.zargacum.net/iptv/EP36AAGWQQ7RT6/530/index.m3u8
+#EXTINF:-1, NTV+ Football 2 HD
 #EXTINF:-1, NTV+ Football 2 HD
 http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
 #EXTINF:-1, NTV+ Football 3
@@ -907,6 +814,8 @@ http://hls.svc.moyo.tv/hls/CH_NATGEOWILD/variant.m3u8?version=2
 http://93.184.221.133/00573D/1347/1347-0.m3u8
 #EXTINF:-1, Animal Planet
 http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
+#EXTINF:-1, History 
+http://50.7.69.170:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
 #EXTINF:-1, Discovery History
 http://93.184.221.133/00573D/1348/1348-0.m3u8
 #EXTINF:-1, Discovery World
@@ -927,8 +836,16 @@ http://hlsstr03.svc.iptv.rt.ru/hls/CH_BABYTV/variant.m3u8
 http://94.198.255.211:5555/pl.m3u8?channel=35
 #EXTINF:-1, Cartoon Network
 http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2
+#EXTINF:-1, Disney Channel De
+https://de_fta_simulcast-lh.akamaihd.net/i/live_1@153866/master.m3u8|X-Forwarded-For=91.63.136.21
 #EXTINF:-1, BBC Entertainment
 http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+#EXTINF:-1, HBO Comedy
+http://50.7.69.170:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335
+#EXTINF:-1, HBO
+http://50.7.69.170:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+#EXTINF:-1, TNT
+http://50.7.69.170:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
 #EXTINF:-1, CBS Action
 http://93.184.221.133/00573D/711/711-0.m3u8
 #EXTINF:-1, CBS Drama
@@ -1015,6 +932,8 @@ rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31+playpa
 http://93.184.221.133/00573D/345/345-0.m3u8
 #EXTINF:-1, Fashion TV
 http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1, Food Network
+http://50.7.69.170:1935/edge/_definst_/ibnnu7537h3ax6e/playlist.m3u8?wowzasessionid=1419873022
 #EXTINF:-1, GINX
 http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
 #EXTINF:-1, Sportska Televizija
@@ -1035,6 +954,16 @@ http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORTNEWS/variant.m3u8?version=2
 http://bit.do/2XWt
 #EXTINF:-1, ESPN 3
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?HasBahCa
+#EXTINF:-1, Sky sports 1
+http://192.99.24.176:8080/Skyy1/Sk01ky1/index.m3u8
+#EXTINF:-1, Sky sports 2
+http://192.99.24.176:8080/skKiK2lo0W/sSSLLppk2/index.m3u8
+#EXTINF:-1, Sky sports 3
+http://192.99.24.176:8080/skkY3/sk3Kp03/index.m3u8
+#EXTINF:-1, Sky sports 4
+http://192.99.24.176:8080/skY4/sSksP4/index.m3u8
+#EXTINF:-1, Sky sports 5
+http://192.99.24.176:8080/skY5/skoK5/index.m3u8
 #EXTINF:-1, SkySports News
 http://93.184.221.133/00573D/183/183-0.m3u8
 #EXTINF:-1, CANAL+ SPORT
