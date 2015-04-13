@@ -26,6 +26,159 @@
 	<category_title>SOVOK.TV TEST</category_title>
 </category>
 <channel>
+	<title>24/7 Action Movies</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/8t7yzaodzxwqguu/playlist.m3u8?wowzasessionid=1420172322]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>24/7 HD Movies 1</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>24/7 HD Movies 2</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/3mu6xhoy4xa8l7w/playlist.m3u8?wowzasessionid=1420172620]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>CBS HD</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Discovery Channel HD</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/ishyd3sopok3p27/chunklist.m3u8?wowzasessionid=1419872569]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Discovery Channel HD</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Food Network HD</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/ibnnu7537h3ax6e/playlist.m3u8?wowzasessionid=1419873022]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>FOX News HD</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Hallmark HD</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>HBO Comedy</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>HBO HD</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>History Channel (Europe)</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>I.D.</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Nat GEO HD</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>NBC Sports Network HD</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>StarZ Movie Channel</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/8g7x80ozu6hz2ds/playlist.m3u8?wowzasessionid=1419874554]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>TNT HD</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
 	<title>ABC7 USA</title>
 	<stream_url><![CDATA[http://93.184.221.133/00573D/1086/1086-0.m3u8]]></stream_url> 
 	<video_type>http</video_type>
@@ -35,7 +188,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>CİNEMA ENG</title>
+	<title>Cinema</title>
 	<stream_url><![CDATA[http://185.27.237.105:8082/TV0118]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -44,7 +197,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>CİNEMA ENG</title>
+	<title>Cinema</title>
 	<stream_url><![CDATA[http://185.27.237.105:8082/TV0111]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -53,7 +206,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>discovery channel ENG</title>
+	<title>Discovery channel</title>
 	<stream_url><![CDATA[http://185.27.237.105:8082/TV0059]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -62,7 +215,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>discovery id ENG</title>
+	<title>discovery id</title>
 	<stream_url><![CDATA[http://185.27.237.105:8082/TV0092]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -71,7 +224,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>discoverychannel ENG</title>
+	<title>discoverychannel</title>
 	<stream_url><![CDATA[http://185.27.237.104:8082/TV0059]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -80,7 +233,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>diseny ENG</title>
+	<title>diseny</title>
 	<stream_url><![CDATA[http://185.27.237.105:8082/TV0110]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -89,7 +242,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Diseny xd ENG</title>
+	<title>Diseny xd</title>
 	<stream_url><![CDATA[http://185.27.237.105:8082/TV0112]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -98,7 +251,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>itv choice ENG</title>
+	<title>itv choice</title>
 	<stream_url><![CDATA[http://185.27.237.104:8082/TV0055]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -107,7 +260,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>itv choice ENG</title>
+	<title>itv choice</title>
 	<stream_url><![CDATA[http://185.27.237.105:8082/TV0055]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -188,7 +341,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Tom & Jerry</title>
+	<title>Tom i Jerry</title>
 	<stream_url><![CDATA[http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -235,231 +388,6 @@
 <channel>
 	<title>HRT 1</title>
 	<stream_url><![CDATA[http://62.112.54.4/hls/hrt1.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>HRT 3</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/hrt3.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>HRT 4</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/hrt4.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>RTL kockica</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/hrt2.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>RTL</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/rtl.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>CMC</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/cmc.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Nova TV</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/nova.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>BN SAT</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/bn-sat.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>BN-BIH</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/bn-bih.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Hayat FOLK TV</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/hayatfolk-tv.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Hayat PLUS</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/hayat-plus.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Hayatovci</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/hayatovci.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>OBN</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/obn.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>BN Music</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/bn-music.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Grand Narodna</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/grand-tv.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Al Jazeera Balkan</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/al_jaz_balkan.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>DM</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/dm-sat.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>RTRS</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/rtrs.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>RTS SAT</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/rts-sat.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Duga TV</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/duga-tv.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>OTV Valentino</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/otv-valentino.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Posavina TV</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/posavina-tv.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>K3</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/k3.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>KCN 1</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/kcn-music-1.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>KCN Music 2</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/kcn-music-2.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>KCN Svet+ 3</title>
-	<stream_url><![CDATA[http://62.112.54.4/hls/svet-plus.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -613,96 +541,6 @@
 <channel>
 	<title>KANAL 3</title>
 	<stream_url><![CDATA[http://109.122.121.21/live/kanal_3.stream/playlist.m3u8?hash=3dd834b4aed23d5a570fa27b782ce2d53af61d9c]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>HAYAT PLUS</title>
-	<stream_url><![CDATA[http://81.92.105.132:5555/pl.m3u8?channel=153]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Hayat Folk</title>
-	<stream_url><![CDATA[http://81.92.105.132:5555/pl.m3u8?channel=154]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>HAYAT TV</title>
-	<stream_url><![CDATA[http://81.92.105.132:5555/pl.m3u8?channel=155]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Hayat Music</title>
-	<stream_url><![CDATA[http://81.92.105.132:5555/pl.m3u8?channel=156]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>BN Music</title>
-	<stream_url><![CDATA[http://81.92.105.132:5555/pl.m3u8?channel=157]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>BN SAT</title>
-	<stream_url><![CDATA[http://81.92.105.132:5555/pl.m3u8?channel=158]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>MKTV 2 Sat</title>
-	<stream_url><![CDATA[http://81.92.105.132:5555/pl.m3u8?channel=160]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Duga TV</title>
-	<stream_url><![CDATA[http://81.92.105.132:5555/pl.m3u8?channel=161]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>HRT 1</title>
-	<stream_url><![CDATA[http://81.92.105.132:5555/pl.m3u8?channel=164]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>RTS SAT</title>
-	<stream_url><![CDATA[http://81.92.105.132:5555/pl.m3u8?channel=252]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1152,7 +990,7 @@
 </channel>
 <channel>
 	<title>Fox Life</title>
-	<stream_url><![CDATA[http://95.220.137.30:81/udp/233.49.170.82:5000]]></stream_url> 
+	<stream_url><![CDATA[http://93.80.153.222:4022/udp/233.33.210.79:5050]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -2744,33 +2582,6 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Agro TV</title>
-	<stream_url><![CDATA[http://93.155.252.151:59349/udp/239.2.1.24:4000]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Animal Planet</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.5.3:1234]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Animal Planet</title>
-	<stream_url><![CDATA[http://93.155.252.151:59349/udp/239.1.1.135:4000]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
 	<title>Animal planet</title>
 	<stream_url><![CDATA[http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028]]></stream_url> 
 	<video_type>http</video_type>
@@ -2781,34 +2592,7 @@
 </channel>
 <channel>
 	<title>Animal Planet HD</title>
-	<stream_url><![CDATA[http://93.155.252.151:59349/udp/239.1.2.135:4000]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Animal Planet HD</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.17.16:1234]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Animal Planet HD</title>
 	<stream_url><![CDATA[http://hlsstr02.svc.iptv.rt.ru/hls/CH_ANIMALPLANET/variant.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Da Vinci Learning</title>
-	<stream_url><![CDATA[http://93.155.252.151:59349/udp/239.2.1.147:4000]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -2843,24 +2627,6 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Discovery Channel</title>
-	<stream_url><![CDATA[http://93.155.252.151:59349/udp/239.1.1.132:4000]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Discovery Channel</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.5.1:1234]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
 	<title>Discovery Science</title>
 	<stream_url><![CDATA[http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYSCIENCE//variant.m3u8?version=2]]></stream_url> 
 	<video_type>http</video_type>
@@ -2870,26 +2636,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Discovery Science</title>
-	<stream_url><![CDATA[http://95.220.137.30:81/udp/233.49.170.42:5000]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Discovery Science</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.5.9:1234]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
 	<title>Discovery World</title>
-	<stream_url><![CDATA[http://95.220.137.30:81/udp/233.49.170.41:5000]]></stream_url> 
+	<stream_url><![CDATA[http://93.80.153.222:4022/udp/233.33.210.153:5050]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -2899,60 +2647,6 @@
 <channel>
 	<title>Discovery World</title>
 	<stream_url><![CDATA[http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYWORLD/variant.m3u8?version=2]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Discovery World</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.2.26:1234]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Discovery Showcase HD</title>
-	<stream_url><![CDATA[http://93.155.252.151:59349/udp/237.2.1.69:4000]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Discovery Showcase HD</title>
-	<stream_url><![CDATA[http://93.155.252.151:59349/udp/239.2.1.69:4000]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Discovery Showcase HD</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.17.17:1234]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Fine Living</title>
-	<stream_url><![CDATA[http://93.155.252.151:59349/udp/239.1.1.179:4000]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>History</title>
-	<stream_url><![CDATA[http://93.155.252.151:59349/udp/236.1.1.190:4000]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -2997,43 +2691,7 @@
 </channel>
 <channel>
 	<title>National Geographic</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.5.8:1234]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>National Geographic</title>
 	<stream_url><![CDATA[http://93.184.221.133/00573D/338/338-0.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>National Geographic</title>
-	<stream_url><![CDATA[http://93.155.252.151:59349/udp/239.1.1.131:4000]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>National Geographic HD</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.17.1:1234]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>National Geographic HD</title>
-	<stream_url><![CDATA[http://93.155.252.151:59349/udp/236.2.1.68:4000]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -3086,33 +2744,6 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>National Geographic Wild</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.5.16:1234]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>National Geographic Wild HD</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.17.6:1234]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>National Geographic Wild HD</title>
-	<stream_url><![CDATA[http://95.220.137.30:81/udp/233.49.170.47:5000]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
 	<title>RT Documentary HD</title>
 	<stream_url><![CDATA[http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
@@ -3132,16 +2763,7 @@
 </channel>
 <channel>
 	<title>TLC</title>
-	<stream_url><![CDATA[http://93.155.252.151:59349/udp/239.2.1.91:4000]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>TLC</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.3.16:1234]]></stream_url> 
+	<stream_url><![CDATA[http://93.80.153.222:4022/udp/233.33.210.52:5050]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -3160,15 +2782,6 @@
 <channel>
 	<title>Travel TV</title>
 	<stream_url><![CDATA[http://95.220.137.30:81/udp/233.49.170.18:5000]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Travel Adventure</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.5.7:1234]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -3205,42 +2818,6 @@
 <channel>
 	<title>Viasat History</title>
 	<stream_url><![CDATA[http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/bw480000/variant.m3u8?version=2]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Viasat Explorer</title>
-	<stream_url><![CDATA[http://93.155.252.151:59349/udp/239.2.1.124:4000]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Viasat Nature</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.5.5:1234]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Viasat History</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.5.14:1234]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Viasat Explorer</title>
-	<stream_url><![CDATA[http://5.128.139.50:81/udp/239.1.5.15:1234]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -3842,7 +3419,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Soundset slow & sexy</title>
+	<title>Soundset slow i sexy</title>
 	<stream_url><![CDATA[http://50.7.129.122:8470/]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -4040,6 +3617,15 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
+	<title>History </title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
 	<title>Discovery History</title>
 	<stream_url><![CDATA[http://93.184.221.133/00573D/1348/1348-0.m3u8]]></stream_url> 
 	<video_type>http</video_type>
@@ -4058,7 +3644,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Horse&Country</title>
+	<title>HorseiCountry</title>
 	<stream_url><![CDATA[http://cdn.live.simplestream.com/coder5/coder.channels.channel5/hls/4/playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -4130,8 +3716,44 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
+	<title>Disney Channel De</title>
+	<stream_url><![CDATA[https://de_fta_simulcast-lh.akamaihd.net/i/live_1@153866/master.m3u8|X-Forwarded-For=91.63.136.21]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
 	<title>BBC Entertainment</title>
 	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>HBO Comedy</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/a1wn1j3ra1w0cv0/chunklist.m3u8?wowzasessionid=1419915335]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>HBO</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>TNT</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -4508,6 +4130,15 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
+	<title>Food Network</title>
+	<stream_url><![CDATA[http://50.7.69.170:1935/edge/_definst_/ibnnu7537h3ax6e/playlist.m3u8?wowzasessionid=1419873022]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
 	<title>GINX</title>
 	<stream_url><![CDATA[http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8]]></stream_url> 
 	<video_type>http</video_type>
@@ -4591,6 +4222,51 @@
 <channel>
 	<title>ESPN 3</title>
 	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?HasBahCa]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Sky sports 1</title>
+	<stream_url><![CDATA[http://192.99.24.176:8080/Skyy1/Sk01ky1/index.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Sky sports 2</title>
+	<stream_url><![CDATA[http://192.99.24.176:8080/skKiK2lo0W/sSSLLppk2/index.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Sky sports 3</title>
+	<stream_url><![CDATA[http://192.99.24.176:8080/skkY3/sk3Kp03/index.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Sky sports 4</title>
+	<stream_url><![CDATA[http://192.99.24.176:8080/skY4/sSksP4/index.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Sky sports 5</title>
+	<stream_url><![CDATA[http://192.99.24.176:8080/skY5/skoK5/index.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
