@@ -1,25 +1,31 @@
-#EXTINF:0, Arena Sport 1
-http://netiptv.dyndns.tv:80/live?channelId=39&uid=6&deviceUser=dreamsat&devicePass=pro001
-#EXTINF:0, Arena Sport 2
-http://netiptv.dyndns.tv:80/live?channelId=40&uid=6&deviceUser=dreamsat&devicePass=pro001
-#EXTINF:0, Arena Sport 3
-http://netiptv.dyndns.tv:80/live?channelId=41&uid=6&deviceUser=dreamsat&devicePass=pro001
-#EXTINF:0, Arena Sport 4
-http://netiptv.dyndns.tv:80/live?channelId=80&uid=6&deviceUser=dreamsat&devicePass=pro001
-#EXTINF:0, Sport Klub 1
-http://netiptv.dyndns.tv:80/live?channelId=81&uid=6&deviceUser=dreamsat&devicePass=pro001
-#EXTINF:0, Sport Klub 2
-http://netiptv.dyndns.tv:80/live?channelId=42&uid=6&deviceUser=dreamsat&devicePass=pro001
-#EXTINF:0, Sport Klub 3
-http://netiptv.dyndns.tv:80/live?channelId=43&uid=6&deviceUser=dreamsat&devicePass=pro001
-#EXTINF:-1, CANAL+ sport
-http://stream4.latvdefrance.com/demo/canalsport.m3u8
-#EXTINF:-1, CANAL+
-http://stream4.latvdefrance.com/demo/canalplus.m3u8
+#EXTINF:-1, CBBC
+http://llnw.live.simplestream.com/coder2/coder.channels.channel5/hls/3/playlist.m3u8
+#EXTINF:-1, CBeebies
+http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
+#EXTINF:-1, Citv
+http://llnw.live.simplestream.com/coder8/coder.channels.channel5/hls/3/playlist.m3u8
+#EXTINF:-1, Tiny Pop
+http://llnw.live.simplestream.com/coder4/coder.channels.channel12/hls/3/playlist.m3u8
+#EXTINF:-1, Pop
+http://llnw.live.simplestream.com/coder4/coder.channels.channel14/hls/3/playlist.m3u8
+#EXTINF:-1, BBC One
+http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8
+#EXTINF:-1, BBC Two
+http://llnw.live.simplestream.com/mediaexcel01/channel02/3/prog_index.m3u8
+#EXTINF:-1, BBC Three
+http://llnw.live.simplestream.com/mediaexcel01/channel06/3/prog_index.m3u8
+#EXTINF:-1, BBC Four
+http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
+#EXTINF:-1, ITV 1
+http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8
+#EXTINF:-1, ITV 2
+http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/playlist.m3u8
+#EXTINF:-1, ITV 3
+http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8
+#EXTINF:-1, ITV 4
+http://llnw.live.simplestream.com/coder12/coder.channels.channel12/hls/3/playlist.m3u8
 #EXTINF:-1, Fox Sports 1 eng
 http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
-#EXTINF:-1, Sky sports 1
-http://192.99.24.176:8080/sportsKy1S/Sk1o1kyp/index.m3u8
 #EXTINF:-1, HBO HD
 http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
 #EXTINF:-1, Cinemax
@@ -40,10 +46,6 @@ http://113.160.49.34/lives/origin03/starsportsd.isml/starsportsd-1096k.m3u8
 http://113.160.49.34/lives/origin03/channelvsd.isml/channelvsd-1096k.m3u8
 #EXTINF:-0, FASHION HD
 http://113.160.49.34/lives/origin03/fashionhd.isml/fashionhd-2096k.m3u8
-#EXTINF:0, Cinemax 1
-http://netiptv.dyndns.tv/live?channelId=25&uid=6&deviceUser=dreamsat&devicePass=pro001
-#EXTINF:0, Cinemax 2
-http://netiptv.dyndns.tv/live?channelId=26&uid=6&deviceUser=dreamsat&devicePass=pro001
 #EXTINF:-1, Cartoon Network
 http://37.193.0.15:81/udp/239.1.3.3:1234
 #EXTINF:-1, Nickelodeon
@@ -126,36 +128,6 @@ http://37.193.0.15:81/udp/239.1.17.10:1234
 http://37.193.0.15:81/udp/239.1.10.20:1234
 #EXTINF:-1, MTV Live HD
 http://37.193.0.15:81/udp/239.1.17.83:1234
-#EXTINF:-1, BN Music
-http://94.198.255.211:5555/pl.m3u8?channel=157
-#EXTINF:-1, BN SAT
-http://94.198.255.211:5555/pl.m3u8?channel=158
-#EXTINF:-1, Dobro TV
-http://94.198.255.211:5555/pl.m3u8?channel=163
-#EXTINF:-1, Duga TV
-http://94.198.255.211:5555/pl.m3u8?channel=161
-#EXTINF:-1, HAYAT PLUS
-http://94.198.255.211:5555/pl.m3u8?channel=153
-#EXTINF:-1, HAYAT TV BIH
-http://94.198.255.211:5555/pl.m3u8?channel=155
-#EXTINF:-1, HRT-TV1
-http://94.198.255.211:5555/pl.m3u8?channel=164
-#EXTINF:-1, MKTV 2 Sat
-http://94.198.255.211:5555/pl.m3u8?channel=160
-#EXTINF:-1, RSI LA 1
-http://94.198.255.211:5555/pl.m3u8?channel=175
-#EXTINF:-1, RSI LA 2
-http://94.198.255.211:5555/pl.m3u8?channel=176
-#EXTINF:-1, RTK-SAT
-http://94.198.255.211:5555/pl.m3u8?channel=127
-#EXTINF:-1, RTS Deux
-http://94.198.255.211:5555/pl.m3u8?channel=174
-#EXTINF:-1, RTS SAT
-http://94.198.255.211:5555/pl.m3u8?channel=252
-#EXTINF:-1, RTS Un
-http://94.198.255.211:5555/pl.m3u8?channel=173
-#EXTINF:-1, TVSH-SAT
-http://94.198.255.211:5555/pl.m3u8?channel=128
 #EXTINF:0, TF1 HD
 http://stream4.latvdefrance.com/demo/tf1.m3u8
 #EXTINF:0, HD1
@@ -168,8 +140,6 @@ http://stream4.latvdefrance.com/demo/france3.m3u8
 http://stream4.latvdefrance.com/demo/france4.m3u8
 #EXTINF:0, CANAL+
 http://stream4.latvdefrance.com/demo/canalplus.m3u8
-#EXTINF:0, CANAL+ SPORT
-http://stream4.latvdefrance.com/demo/canalsport.m3u8
 #EXTINF:0, d8
 http://stream4.latvdefrance.com/demo/d8.m3u8
 #EXTINF:0, ARTE
@@ -194,20 +164,6 @@ http://stream4.latvdefrance.com/demo/gulli.m3u8
 http://stream4.latvdefrance.com/demo/lequipe.m3u8
 #EXTINF:0, BMFTV
 http://stream4.latvdefrance.com/demo/bfm.m3u8
-#EXTINF:-1, Cinema
-http://185.56.30.123:8082/TV3013
-#EXTINF:-1, Cinema
-http://185.56.30.123:8082/TV3012
-#EXTINF:-1, Cinema
-http://185.56.30.123:8082/TV3010
-#EXTINF:-1, Cinema
-http://185.56.30.123:8082/TV6013
-#EXTINF:-1, Fox
-http://185.56.30.123:8082/TV6010
-#EXTINF:-1, Fox movıes
-http://185.56.30.123:8082/TV6011
-#EXTINF:-1, osn
-http://185.56.30.123:8082/TV6013
 #EXTINF: 0, sport 1
 http://92.50.181.6/tv/1115/index.m3u8
 #EXTINF: 0, Fight Club
@@ -237,7 +193,7 @@ http://185.27.237.105:8082/TV0110
 #EXTINF:-1, Disney xd
 http://185.27.237.105:8082/TV0112
 #EXTINF:-1, itv choice
-http://185.27.237.104:8082/TV0055
+http://185#EXTINF:-1, .27.237.104:8082/TV0055
 #EXTINF:-1, Boomerang
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8?version=2
 #EXTINF:-1, Cartoon Network
@@ -254,8 +210,30 @@ http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
 http://213.5.58.58:1935/hrt_live/smil:hrt3.smil/nesto.m3u8
 #EXTINF:-1, HRT 4
 http://213.5.58.58:1935/hrt_live/smil:hrt4.smil/nesto.m3u8
+#EXTINF:-1, National Geographic
+http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8
+#EXTINF:-1, Nat Geo Wild
+http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8
+#EXTINF:-1, Travel Channel
+http://cdn.iptv.amis.net/LIVE/CROTRAVEL/stream_wifi_1200k.m3u8
+#EXTINF:-1, History Channel
+http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8
+#EXTINF:-1, Viasat History
+http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8
+#EXTINF:-1, Viasat Explore
+http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8
 #EXTINF:-1, Sportska televizija
 http://80.80.58.168:1935/sporttv/smil:sptv.smil/playlist.m3u8
+#EXTINF:-1, RTL
+http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8
+#EXTINF:-1, RTL 2
+http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8
+#EXTINF:-1, RTL Living
+http://cdn.iptv.amis.net/LIVE/RTLplus/stream_wifi_1200k.m3u8
+#EXTINF:-1, Sportska TV
+http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
+#EXTINF:-1, CMC
+http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8
 #EXTINF:0, Nova
 http://netiptv.dyndns.tv/live?channelId=30&uid=6&deviceUser=dreamsat&devicePass=pro001
 #EXTINF:0, RTL
@@ -269,37 +247,37 @@ http://netiptv.dyndns.tv/live?channelId=36&uid=6&deviceUser=dreamsat&devicePass=
 #EXTINF:-1, B92
 http://stream.b92.net:7999/tv-b92.ogg
 #EXTINF:-1, RTS 1
-http://109.122.121.21/live/rts_1.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/rts_1.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, RTS 2
-http://109.122.121.21/live/rts_2.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/rts_2.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, PINK
-http://109.122.121.21/live/pink.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/pink.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, HAPPY
-http://109.122.121.21/live/happy.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/happy.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, SOS
-http://109.122.121.21/live/sos.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/sos.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, B 92
-http://109.122.121.21/live/b92.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/b92.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, PRVA
-http://109.122.121.21/live/prva.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/prva.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, STUDIO B
-http://109.122.121.21/live/studio_b.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/studio_b.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, SKY PLUS (Naša TV)
-http://109.122.121.21/live/sky_plus.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/sky_plus.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, PALMA
-http://109.122.121.21/live/palma.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/palma.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, RTCG SAT
-http://109.122.121.21/live/rtcg.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/rtcg.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, RTRS
-http://109.122.121.21/live/rtrs.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/rtrs.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, HTV 1
-http://109.122.121.21/live/hrt_1.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/hrt_1.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, HTV 2
-http://109.122.121.21/live/hrt_2.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/hrt_2.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, RTV 1
-http://109.122.121.21/live/rtv_1.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/rtv_1.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, KANAL 3
-http://109.122.121.21/live/kanal_3.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e
+http://109.122.121.21/live/kanal_3.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3
 #EXTINF:-1, Pink 1
 http://pinkovi.hits2hits.com/fastv_2psh/Pinkglobal_rly_greece_109/hits2hits.m3u8
 #EXTINF:-1, Pink 2
@@ -758,8 +736,6 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/bw480000/variant.m3u8?version=2
 #EXTINF:-1, Viasat History
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/bw480000/variant.m3u8?version=2
-#EXTINF:-1, BT Sport 1
-http://192.99.24.176:8080/BTt1/BTt1/index.m3u8
 #EXTINF:-1, Eurosport 1 (Dual Audio)
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2
 #EXTINF:-1, Eurosport 1 HD (Dual Audio)
@@ -818,40 +794,20 @@ http://80.77.52.6:4314/udp/226.0.0.8:12345
 http://80.77.52.6:4314/udp/226.0.0.9:12345
 #EXTINF:-1, Silk Sport HD 4
 http://80.77.52.6:4314/udp/226.0.0.10:12345
-#EXTINF:-1, SPORT TIME TV 1HD
+#EXTINF:-1, Sport time TV 1HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
-#EXTINF:-1, SPORT TIME TV 2HD
+#EXTINF:-1, Sport time TV 2HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
-#EXTINF:-1, SPORT TIME TV 3HD
+#EXTINF:-1, Sport time TV 3HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
-#EXTINF:-1, SPORT TIME TV 4HD
+#EXTINF:-1, Sport time TV 4HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
-#EXTINF:-1, SPORT TIME TV 5HD
+#EXTINF:-1, Sport time TV 5HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-#EXTINF:-1, SPORT TIME TV 6HD
+#EXTINF:-1, Sport time TV 6HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
-#EXTINF:-1, SPORT TIME TV7 HD
+#EXTINF:-1, Sport time TV7 HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
-#EXTINF: 0 , Sky Sports 1
-http://192.99.24.176:8080/Skyy1/Skky1/index.m3u8
-#EXTINF: 0 , Sky Sports 2
-http://192.99.24.176:8080/skySpo02L/sKk0oYSpll0Wo20o20w/index.m3u8
-#EXTINF: 0 , Sky Sports 3
-http://192.99.24.176:8080/skkY3/sk303/index.m3u8
-#EXTINF: 0 , Sky Sports 4
-http://192.99.24.176:8080/skY4/sSk4/index.m3u8
-#EXTINF: 0 , Sky Sports 5
-http://192.99.24.176:8080/skY5/skK5/index.m3u8
-#EXTINF: 0 , Sky Sports F1
-http://192.99.24.176:8080/skfF1/skfF1/index.m3u8
-#EXTINF: 0 , BT Sports 1
-http://192.99.24.176:8080/BTt1/BTt1/index.m3u8
-#EXTINF:-1, BEIN SPORTS 1 HD
-http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd1
-#EXTINF:-1, BEIN SPORTS 2 HD
-http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd2
-#EXTINF:-1, BEIN SPORTS 3 HD
-http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd3
 #EXTINF:-1, TSN 1
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
 #EXTINF:-1, TSN 3
@@ -864,14 +820,14 @@ http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
 #EXTINF:-1, Fox sports 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:-1, Fox Sports 2
+http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h
 #EXTINF:-1, ESPN
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8
 #EXTINF:-1, ESPN HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8
 #EXTINF:-1, ESPN 2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8
-#EXTINF:-1, Fox Sports 2
-http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h
 #EXTINF:-1 radio="true", Enter Zagreb
 http://s7.iqstreaming.com:8042/
 #EXTINF:-1 radio="true", Radio Otocac
@@ -902,13 +858,13 @@ http://50.7.129.122:8470/
 http://50.7.70.58:8902/
 #EXTINF:-1, Rap Monster Radio
 http://198.27.83.198:5526/
-#EXTINF:-1, Reggae RADIO 808 live
+#EXTINF:-1, Reggae Radio 808
 http://66.225.205.5:80
-#EXTINF:-1, 70'S RADIO JUICE
+#EXTINF:-1, 70'S Radio
 http://31.12.64.204:8000/A-RADIO-70s-JUICE
-#EXTINF:-1, 80'S RADIO JUICE
+#EXTINF:-1, 80'S Radio
 http://31.12.64.204:8000/A-RADIO-80s-JUICE
-#EXTINF:-1, 90'S RADIO JUICE
+#EXTINF:-1, 90'S Radio
 http://31.12.64.204:8000/A-RADIO-90s-JUICE
 #EXTINF:-1, Radio Top 40
 http://31.12.64.204:8000/A-RADIO-TOP-40
@@ -994,6 +950,8 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_MEZZO/variant.m3u8?version=2
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2
 #EXTINF:-1, Planet POP
 http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1, Virgin 1 
+rtmp://fms.105.net:1935/live/virgin1 
 #EXTINF:-1, VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1, VEVO 2
@@ -1024,20 +982,6 @@ http://50.7.69.170:1935/edge/_definst_/ibnnu7537h3ax6e/playlist.m3u8?wowzasessio
 http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
 #EXTINF:-1, Sportska Televizija
 http://80.80.58.168:1935/sporttv/smil:sptv.smil/playlist.m3u8
-#EXTINF:0, Arena Sport 1
-http://netiptv.dyndns.tv:80/live?channelId=39&uid=6&deviceUser=dreamsat&devicePass=pro001
-#EXTINF:0, Arena Sport 2
-http://netiptv.dyndns.tv:80/live?channelId=40&uid=6&deviceUser=dreamsat&devicePass=pro001
-#EXTINF:0, Arena Sport 3
-http://netiptv.dyndns.tv:80/live?channelId=41&uid=6&deviceUser=dreamsat&devicePass=pro001
-#EXTINF:0, Arena Sport 4
-http://netiptv.dyndns.tv:80/live?channelId=80&uid=6&deviceUser=dreamsat&devicePass=pro001
-#EXTINF:0, Sport Klub 1
-http://netiptv.dyndns.tv:80/live?channelId=81&uid=6&deviceUser=dreamsat&devicePass=pro001
-#EXTINF:0, Sport Klub 2
-http://netiptv.dyndns.tv:80/live?channelId=42&uid=6&deviceUser=dreamsat&devicePass=pro001
-#EXTINF:0, Sport Klub 3
-http://netiptv.dyndns.tv:80/live?channelId=43&uid=6&deviceUser=dreamsat&devicePass=pro001
 #EXTINF:-1, British Eurosport 
 http://93.184.221.133/00573D/1210/1210-0.m3u8
 #EXTINF:-1, British Eurosport 2 

@@ -26,8 +26,8 @@
 	<category_title>SOVOK.TV TEST</category_title>
 </category>
 <channel>
-	<title>Arena Sport 1</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv:80/live?channelId=39&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
+	<title>CBBC</title>
+	<stream_url><![CDATA[http://llnw.live.simplestream.com/coder2/coder.channels.channel5/hls/3/playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -35,8 +35,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Arena Sport 2</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv:80/live?channelId=40&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
+	<title>CBeebies</title>
+	<stream_url><![CDATA[http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -44,8 +44,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Arena Sport 3</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv:80/live?channelId=41&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
+	<title>Citv</title>
+	<stream_url><![CDATA[http://llnw.live.simplestream.com/coder8/coder.channels.channel5/hls/3/playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -53,8 +53,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Arena Sport 4</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv:80/live?channelId=80&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
+	<title>Tiny Pop</title>
+	<stream_url><![CDATA[http://llnw.live.simplestream.com/coder4/coder.channels.channel12/hls/3/playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -62,8 +62,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Sport Klub 1</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv:80/live?channelId=81&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
+	<title>Pop</title>
+	<stream_url><![CDATA[http://llnw.live.simplestream.com/coder4/coder.channels.channel14/hls/3/playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -71,8 +71,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Sport Klub 2</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv:80/live?channelId=42&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
+	<title>BBC One</title>
+	<stream_url><![CDATA[http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -80,8 +80,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Sport Klub 3</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv:80/live?channelId=43&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
+	<title>BBC Two</title>
+	<stream_url><![CDATA[http://llnw.live.simplestream.com/mediaexcel01/channel02/3/prog_index.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -89,8 +89,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>CANAL+ sport</title>
-	<stream_url><![CDATA[http://stream4.latvdefrance.com/demo/canalsport.m3u8]]></stream_url> 
+	<title>BBC Three</title>
+	<stream_url><![CDATA[http://llnw.live.simplestream.com/mediaexcel01/channel06/3/prog_index.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -98,8 +98,44 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>CANAL+</title>
-	<stream_url><![CDATA[http://stream4.latvdefrance.com/demo/canalplus.m3u8]]></stream_url> 
+	<title>BBC Four</title>
+	<stream_url><![CDATA[http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>ITV 1</title>
+	<stream_url><![CDATA[http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>ITV 2</title>
+	<stream_url><![CDATA[http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>ITV 3</title>
+	<stream_url><![CDATA[http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>ITV 4</title>
+	<stream_url><![CDATA[http://llnw.live.simplestream.com/coder12/coder.channels.channel12/hls/3/playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -109,15 +145,6 @@
 <channel>
 	<title>Fox Sports 1 eng</title>
 	<stream_url><![CDATA[http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky sports 1</title>
-	<stream_url><![CDATA[http://192.99.24.176:8080/sportsKy1S/Sk1o1kyp/index.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -208,24 +235,6 @@
 <channel>
 	<title>FASHION HD</title>
 	<stream_url><![CDATA[http://113.160.49.34/lives/origin03/fashionhd.isml/fashionhd-2096k.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Cinemax 1</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv/live?channelId=25&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Cinemax 2</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv/live?channelId=26&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -602,141 +611,6 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>BN Music</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=157]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>BN SAT</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=158]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Dobro TV</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=163]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Duga TV</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=161]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>HAYAT PLUS</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=153]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>HAYAT TV BIH</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=155]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>HRT-TV1</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=164]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>MKTV 2 Sat</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=160]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>RSI LA 1</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=175]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>RSI LA 2</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=176]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>RTK-SAT</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=127]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>RTS Deux</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=174]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>RTS SAT</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=252]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>RTS Un</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=173]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>TVSH-SAT</title>
-	<stream_url><![CDATA[http://94.198.255.211:5555/pl.m3u8?channel=128]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
 	<title>TF1 HD</title>
 	<stream_url><![CDATA[http://stream4.latvdefrance.com/demo/tf1.m3u8]]></stream_url> 
 	<video_type>http</video_type>
@@ -784,15 +658,6 @@
 <channel>
 	<title>CANAL+</title>
 	<stream_url><![CDATA[http://stream4.latvdefrance.com/demo/canalplus.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>CANAL+ SPORT</title>
-	<stream_url><![CDATA[http://stream4.latvdefrance.com/demo/canalsport.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -901,69 +766,6 @@
 <channel>
 	<title>BMFTV</title>
 	<stream_url><![CDATA[http://stream4.latvdefrance.com/demo/bfm.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Cinema</title>
-	<stream_url><![CDATA[http://185.56.30.123:8082/TV3013]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Cinema</title>
-	<stream_url><![CDATA[http://185.56.30.123:8082/TV3012]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Cinema</title>
-	<stream_url><![CDATA[http://185.56.30.123:8082/TV3010]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Cinema</title>
-	<stream_url><![CDATA[http://185.56.30.123:8082/TV6013]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Fox</title>
-	<stream_url><![CDATA[http://185.56.30.123:8082/TV6010]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Fox movıes</title>
-	<stream_url><![CDATA[http://185.56.30.123:8082/TV6011]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>osn</title>
-	<stream_url><![CDATA[http://185.56.30.123:8082/TV6013]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1098,7 +900,7 @@
 </channel>
 <channel>
 	<title>itv choice</title>
-	<stream_url><![CDATA[http://185.27.237.104:8082/TV0055]]></stream_url> 
+	<stream_url><![CDATA[.27.237.104:8082/TV0055]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1178,8 +980,107 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
+	<title>National Geographic</title>
+	<stream_url><![CDATA[http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Nat Geo Wild</title>
+	<stream_url><![CDATA[http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Travel Channel</title>
+	<stream_url><![CDATA[http://cdn.iptv.amis.net/LIVE/CROTRAVEL/stream_wifi_1200k.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>History Channel</title>
+	<stream_url><![CDATA[http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Viasat History</title>
+	<stream_url><![CDATA[http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Viasat Explore</title>
+	<stream_url><![CDATA[http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
 	<title>Sportska televizija</title>
 	<stream_url><![CDATA[http://80.80.58.168:1935/sporttv/smil:sptv.smil/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>RTL</title>
+	<stream_url><![CDATA[http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>RTL 2</title>
+	<stream_url><![CDATA[http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>RTL Living</title>
+	<stream_url><![CDATA[http://cdn.iptv.amis.net/LIVE/RTLplus/stream_wifi_1200k.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>Sportska TV</title>
+	<stream_url><![CDATA[http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>CMC</title>
+	<stream_url><![CDATA[http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1242,7 +1143,7 @@
 </channel>
 <channel>
 	<title>RTS 1</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/rts_1.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/rts_1.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1251,7 +1152,7 @@
 </channel>
 <channel>
 	<title>RTS 2</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/rts_2.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/rts_2.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1260,7 +1161,7 @@
 </channel>
 <channel>
 	<title>PINK</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/pink.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/pink.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1269,7 +1170,7 @@
 </channel>
 <channel>
 	<title>HAPPY</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/happy.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/happy.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1278,7 +1179,7 @@
 </channel>
 <channel>
 	<title>SOS</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/sos.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/sos.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1287,7 +1188,7 @@
 </channel>
 <channel>
 	<title>B 92</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/b92.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/b92.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1296,7 +1197,7 @@
 </channel>
 <channel>
 	<title>PRVA</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/prva.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/prva.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1305,7 +1206,7 @@
 </channel>
 <channel>
 	<title>STUDIO B</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/studio_b.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/studio_b.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1314,7 +1215,7 @@
 </channel>
 <channel>
 	<title>SKY PLUS (Naša TV)</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/sky_plus.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/sky_plus.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1323,7 +1224,7 @@
 </channel>
 <channel>
 	<title>PALMA</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/palma.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/palma.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1332,7 +1233,7 @@
 </channel>
 <channel>
 	<title>RTCG SAT</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/rtcg.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/rtcg.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1341,7 +1242,7 @@
 </channel>
 <channel>
 	<title>RTRS</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/rtrs.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/rtrs.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1350,7 +1251,7 @@
 </channel>
 <channel>
 	<title>HTV 1</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/hrt_1.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/hrt_1.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1359,7 +1260,7 @@
 </channel>
 <channel>
 	<title>HTV 2</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/hrt_2.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/hrt_2.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1368,7 +1269,7 @@
 </channel>
 <channel>
 	<title>RTV 1</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/rtv_1.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/rtv_1.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -1377,7 +1278,7 @@
 </channel>
 <channel>
 	<title>KANAL 3</title>
-	<stream_url><![CDATA[http://109.122.121.21/live/kanal_3.stream/playlist.m3u8?hash=1a1ba8d585394502355aacba4b8015291e07ff9e]]></stream_url> 
+	<stream_url><![CDATA[http://109.122.121.21/live/kanal_3.stream/playlist.m3u8?hash=37ee871503037878d5428b9ec2e0fadd527472b3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -3446,15 +3347,6 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>BT Sport 1</title>
-	<stream_url><![CDATA[http://192.99.24.176:8080/BTt1/BTt1/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
 	<title>Eurosport 1 (Dual Audio)</title>
 	<stream_url><![CDATA[http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2]]></stream_url> 
 	<video_type>http</video_type>
@@ -3716,7 +3608,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>SPORT TIME TV 1HD</title>
+	<title>Sport time TV 1HD</title>
 	<stream_url><![CDATA[rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -3725,7 +3617,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>SPORT TIME TV 2HD</title>
+	<title>Sport time TV 2HD</title>
 	<stream_url><![CDATA[rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -3734,7 +3626,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>SPORT TIME TV 3HD</title>
+	<title>Sport time TV 3HD</title>
 	<stream_url><![CDATA[rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -3743,7 +3635,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>SPORT TIME TV 4HD</title>
+	<title>Sport time TV 4HD</title>
 	<stream_url><![CDATA[rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -3752,7 +3644,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>SPORT TIME TV 5HD</title>
+	<title>Sport time TV 5HD</title>
 	<stream_url><![CDATA[rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -3761,7 +3653,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>SPORT TIME TV 6HD</title>
+	<title>Sport time TV 6HD</title>
 	<stream_url><![CDATA[rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -3770,98 +3662,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>SPORT TIME TV7 HD</title>
+	<title>Sport time TV7 HD</title>
 	<stream_url><![CDATA[rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Sports 1</title>
-	<stream_url><![CDATA[http://192.99.24.176:8080/Skyy1/Skky1/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Sports 2</title>
-	<stream_url><![CDATA[http://192.99.24.176:8080/skySpo02L/sKk0oYSpll0Wo20o20w/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Sports 3</title>
-	<stream_url><![CDATA[http://192.99.24.176:8080/skkY3/sk303/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Sports 4</title>
-	<stream_url><![CDATA[http://192.99.24.176:8080/skY4/sSk4/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Sports 5</title>
-	<stream_url><![CDATA[http://192.99.24.176:8080/skY5/skK5/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Sports F1</title>
-	<stream_url><![CDATA[http://192.99.24.176:8080/skfF1/skfF1/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>BT Sports 1</title>
-	<stream_url><![CDATA[http://192.99.24.176:8080/BTt1/BTt1/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>BEIN SPORTS 1 HD</title>
-	<stream_url><![CDATA[http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd1]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>BEIN SPORTS 2 HD</title>
-	<stream_url><![CDATA[http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd2]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>BEIN SPORTS 3 HD</title>
-	<stream_url><![CDATA[http://45.33.78.45:8080/beinhd-iptv.php?access=freebeinhd3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -3923,6 +3725,15 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
+	<title>Fox Sports 2</title>
+	<stream_url><![CDATA[http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
 	<title>ESPN</title>
 	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8]]></stream_url> 
 	<video_type>http</video_type>
@@ -3943,15 +3754,6 @@
 <channel>
 	<title>ESPN 2</title>
 	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Fox Sports 2</title>
-	<stream_url><![CDATA[http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -4094,7 +3896,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Reggae RADIO 808 live</title>
+	<title>Reggae Radio 808</title>
 	<stream_url><![CDATA[http://66.225.205.5:80]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -4103,7 +3905,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>70'S RADIO JUICE</title>
+	<title>70'S Radio</title>
 	<stream_url><![CDATA[http://31.12.64.204:8000/A-RADIO-70s-JUICE]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -4112,7 +3914,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>80'S RADIO JUICE</title>
+	<title>80'S Radio</title>
 	<stream_url><![CDATA[http://31.12.64.204:8000/A-RADIO-80s-JUICE]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -4121,7 +3923,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>90'S RADIO JUICE</title>
+	<title>90'S Radio</title>
 	<stream_url><![CDATA[http://31.12.64.204:8000/A-RADIO-90s-JUICE]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -4508,6 +4310,15 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
+	<title>Virgin 1 </title>
+	<stream_url><![CDATA[rtmp://fms.105.net:1935/live/virgin1]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
 	<title>VEVO 1</title>
 	<stream_url><![CDATA[http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8]]></stream_url> 
 	<video_type>http</video_type>
@@ -4636,69 +4447,6 @@
 <channel>
 	<title>Sportska Televizija</title>
 	<stream_url><![CDATA[http://80.80.58.168:1935/sporttv/smil:sptv.smil/playlist.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Arena Sport 1</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv:80/live?channelId=39&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Arena Sport 2</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv:80/live?channelId=40&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Arena Sport 3</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv:80/live?channelId=41&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Arena Sport 4</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv:80/live?channelId=80&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sport Klub 1</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv:80/live?channelId=81&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sport Klub 2</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv:80/live?channelId=42&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sport Klub 3</title>
-	<stream_url><![CDATA[http://netiptv.dyndns.tv:80/live?channelId=43&uid=6&deviceUser=dreamsat&devicePass=pro001]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
