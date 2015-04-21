@@ -22,8 +22,8 @@
 	<category_title>OTHER</category_title>
 </category>	
 <category>
-	<category_id>6</category_id>
-	<category_title>SOVOK.TV TEST</category_title>
+	<category_id>7</category_id>
+	<category_title>XXX</category_title>
 </category>
 <channel>
 	<title>CBBC</title>
@@ -9036,7 +9036,7 @@
 </channel>
 <channel>
 	<title>MTV Hits HD </title>
-	<stream_url><![CDATA[http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=476&lan=2&rows=40&f=HasBahCa.m3u8]]></stream_url> 
+	<stream_url><![CDATA[http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2 and profile=476 and lan=2 and rows=40 and f=HasBahCa.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -9054,7 +9054,7 @@
 </channel>
 <channel>
 	<title>MTV Live HD</title>
-	<stream_url><![CDATA[http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key&stream_id=0]]></stream_url> 
+	<stream_url><![CDATA[http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key and stream_id=0]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -9306,7 +9306,7 @@
 </channel>
 <channel>
 	<title>Clubland</title>
-	<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8]]></stream_url> 
+	<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW and file=clublandtv and type=live and service=wowza and protocol=http and output=playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -9315,7 +9315,7 @@
 </channel>
 <channel>
 	<title>AKA Music </title>
-	<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8]]></stream_url> 
+	<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW and file=akanew and type=live and service=wowza and protocol=http and output=playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -9324,7 +9324,7 @@
 </channel>
 <channel>
 	<title>Now Thats What I Call Music </title>
-	<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8]]></stream_url> 
+	<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW and file=nowmusic and type=live and service=wowza and protocol=http and output=playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -10634,7 +10634,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 <channel>
 	<title>Playboy TV</title>
@@ -10643,7 +10643,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 <channel>
 	<title>Playboy TV Hardcore</title>
@@ -10652,7 +10652,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 <channel>
 	<title>Babes Sporting</title>
@@ -10661,7 +10661,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 <channel>
 	<title>Hot Shots</title>
@@ -10670,7 +10670,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 <channel>
 	<title>Bella Club</title>
@@ -10679,7 +10679,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 <channel>
 	<title>Bella Club Luz</title>
@@ -10688,7 +10688,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 <channel>
 	<title>Russian Night</title>
@@ -10697,7 +10697,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 <channel>
 	<title>HD Porn TV</title>
@@ -10706,7 +10706,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 <channel>
 	<title>Claro Adulto </title>
@@ -10715,7 +10715,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 <channel>
 	<title>Olala</title>
@@ -10724,7 +10724,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 <channel>
 	<title>Private</title>
@@ -10733,7 +10733,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 <channel>
 	<title>XXL</title>
@@ -10742,7 +10742,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 <channel>
 	<title>Blue Hustler</title>
@@ -10751,6 +10751,6 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 </items>
