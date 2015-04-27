@@ -1,0 +1,776 @@
+<rss>
+  <categories>
+    <category>
+      <category_id>1</category_id>
+      <category_title>Movie</category_title>
+    </category>
+    <category>
+      <category_id>0</category_id>
+      <category_title>All</category_title>
+    </category>
+    <category>
+      <category_id>3</category_id>
+      <category_title>Doc</category_title>
+    </category>
+    <category>
+      <category_id>2</category_id>
+      <category_title>Info</category_title>
+    </category>
+  </categories>
+  <item>
+  <title>TVP1 HD</title>
+  <link>tvp1hd179</link>
+  <image>http://static.weeb.tv/logos/9fe2e1a2c9659a9c3b4f35354b0e35e0.jpg</image>
+  <description> </description>
+  <type>WeebTV</type>
+  <ch_category>
+      <id_category>
+      </id_category>
+  </ch_category>
+  <tvid>100</tvid>
+  <source>OnlineTV</source>
+</item>
+  <channel>
+    <item>
+      <title>TV 1000 Action</title>
+      <link>http://37.193.0.15:81/udp/239.1.4.13:1234</link>
+      <image>http://www.lyngsat-logo.com/logo/tv/num/123_tv_de.png</image>
+      <description> </description>
+      <type>HLS</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>286</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>TV 1000 Comedy HD</title>
+      <link>http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2</link>
+      <image>http://www.lyngsat-logo.com/logo/tv/num/360_tune_box.png</image>
+      <description> </description>
+      <type>HLS</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>104</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>TV 1000 Megahit HD</title>
+      <link>http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-4fun_tv.gif</image>
+      <description> </description>
+      <type>HLS</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>101</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>TV 1000 Premium HD</title>
+      <link>http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2</link>
+      <image>http://www.amazingtv.pl/resources/public/multimedia/css/_common/image/template/logo.png</image>
+      <description> </description>
+      <type>HLS</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>335</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>VH-1 Classic</title>
+      <link>http://212.79.96.134:8024</link>
+      <image>http://www.lyngsat-logo.com/logo/tv/aa/a_one_tv_ua.png</image>
+      <description> </description>
+      <type>UDP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>336</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>MTV Rocks</title>
+      <link>http://hlsstr01.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?version=2</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/atm-rozrywka-tv.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>18</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>Warner HD</title>
+      <link>http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?</link>
+      <image>http://www.lyngsat-logo.com/logo/tv/cc/ceska_televize1.png</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>237</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>Amedia Premium HD</title>
+      <link>http://212.164.212.176:1234/udp/233.7.70.244:5000 </link>
+      <image>http://www.lyngsat-logo.com/logo/tv/cc/ceska_televize2.png</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>238</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>Fox Movies Action</title>
+      <link>http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h</link>
+      <image>http://www.lyngsat-logo.com/logo/tv/cc/ceska_televize24.png</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>239</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>Fox Movies Premium HD</title>
+      <link>http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h</link>
+      <image>http://www.lyngsat-logo.com/logo/tv/cc/ceska_televize_sport.png</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>240</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>Private</title>
+      <link>http://185.38.12.20:8088/private/</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/disney-channel.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>9</tvid>
+      <source>ATV</source>
+    </item>
+    <item>
+      <title>Playboy TV Hardcore</title>
+      <link>http://185.27.237.105:8082/TV0076</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/e-entertainment.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>297</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>Blue Hustler</title>
+      <link>http://hlsstr01.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-eska_tv.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>20</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>Euronews</title>
+      <link>#info#euronews</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-euronews.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>8</tvid>
+      <source>ATV</source>
+    </item>
+    <item>
+      <title>Eurosport DE</title>
+      <link>#info#eurosportde</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-eurosport_niem.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>11</tvid>
+      <source>ATV</source>
+    </item>
+    <item>
+      <title>Fashion TV</title>
+      <link>http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-fashion_tv.gif</image>
+      <description> </description>
+      <type>HLS</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>91</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>Fokus TV</title>
+      <link>#info#fokustv</link>
+      <image>http://media2.pl/g/300/38089.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>25</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>HSE 24</title>
+      <link>http://c17001-l.z.core.cdn.streamfarm.net/10018xhse24/smil:classicmobile.smil/chunklist-b500.m3u8?wowzasessionid=518628888</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/hse-24.gif</image>
+      <description> </description>
+      <type>HLS</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>281</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>HSE 24 Extra</title>
+      <link>http://c17001-l.z.core.cdn.streamfarm.net/10019xhse24ext/smil:extramobile.smil/chunklist-b500.m3u8?wowzasessionid=658983944</link>
+      <image>http://www.lyngsat-logo.com/logo/tv/hh/hse_24_extra.png</image>
+      <description> </description>
+      <type>HLS</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>282</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>ITV</title>
+      <link>mms://stream.mni.pl/ITV</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-i_tv.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>119</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>KiKa</title>
+      <link>#info#kika</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-ki_ka.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>10</tvid>
+      <source>ATV</source>
+    </item>
+    <item>
+      <title>MTV DANCE</title>
+      <link>http://nebo.ddns.net:8881/VSxEA672DFFA.php?id=140</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/mtv-dance.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>111</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>MTV HITS</title>
+      <link>http://nebo.ddns.net:8881/VSxEA672DFFA.php?id=142</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/mtv-hits.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>112</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>MTV ROCKS</title>
+      <link>http://nebo.ddns.net:8881/VSxEA672DFFA.php?id=144</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/mtv-rocks.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>113</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>Music Box</title>
+      <link>http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8</link>
+      <image>http://www.lyngsat-logo.com/logo/tv/mm/music_box_ru.png</image>
+      <description> </description>
+      <type>HLS</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>121</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>Music Box Russia</title>
+      <link>http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8</link>
+      <image>http://www.lyngsat-logo.com/logo/tv/rr/russian_musicbox.png</image>
+      <description> </description>
+      <type>HLS</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>122</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>Musiq 1</title>
+      <link>http://88.212.10.27:81/streams/musiq1.m3u8</link>
+      <image>http://www.lyngsat-logo.com/logo/tv/mm/musiq1.png</image>
+      <description> </description>
+      <type>HLS</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>248</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>Polo TV</title>
+      <link>#info#polotv</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/polo-tv.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>21</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>Polsat</title>
+      <link>#info#polsat</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-polsat.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>4</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>Polsat News 2</title>
+      <link>#info#polsatbiznes</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/polsat-news-2.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>7</tvid>
+      <source>ATV</source>
+    </item>
+    <item>
+      <title>Polsat Soprt News</title>
+      <link>#info#polsatsportnews</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/polsat-sport-news.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>22</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>RTL</title>
+      <link>#info#rtl</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-rtl.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>5</tvid>
+      <source>ATV</source>
+    </item>
+    <item>
+      <title>Stopklatka TV</title>
+      <link>#info#stopklatkatv</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/stopklatka-tv.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>24</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TTV</title>
+      <link>#info#ttv</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/ttv.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>7</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TV 4</title>
+      <link>#info#tv4</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-tv_4.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>8</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TV 6</title>
+      <link>#info#tv6</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/tv-6.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>19</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TV Puls</title>
+      <link>#info#tvpuls</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/tv-puls.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>9</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TV Puls 2</title>
+      <link>#info#tvpuls2</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/tv-puls-2.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>10</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TV Trwam</title>
+      <link>#info#tvtrwam</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-tv_trwam.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>23</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TVN</title>
+      <link>#info#tvn</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-tvn.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>5</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TVN 24</title>
+      <link>#info#tvn24</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/tvn-24.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>1</tvid>
+      <source>ATV</source>
+    </item>
+    <item>
+      <title>TVN 7</title>
+      <link>#info#tvn7</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/tvn-7.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>6</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TVN Style</title>
+      <link>#info#tvnstyle</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/tvn-style.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>2</tvid>
+      <source>ATV</source>
+    </item>
+    <item>
+      <title>TVP ABC</title>
+      <link>#info#tvpabc</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/tvp-abc.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>16</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TVP Gdańsk</title>
+      <link>#info#tvpgdansk</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/tvp-gdansk.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>12</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TVP Historia</title>
+      <link>#info#tvphistoria</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/tvp-historia.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>15</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TVP Info</title>
+      <link>http://62.108.166.137:1301/tvpinfo</link>
+      <image>http://static.weeb.tv/logos/0f35affde8a8b2efdf684ba29427f29c.jpg</image>
+      <description> </description>
+      <type>WeebTV</type>
+      <ch_category>
+        <id_category/>
+      </ch_category>
+      <tvid>
+      </tvid>
+      <source>None</source>
+    </item>
+    <item>
+      <title>TVP Info</title>
+      <link>#info#tvp-info</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-tvp_info.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>3</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TVP Kultura</title>
+      <link>#info#tvpkultura</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/tvp-kultura.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>14</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TVP Polonia</title>
+      <link>#info#tvppolonia</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-tvp_polonia.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>13</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TVP Rozrywka</title>
+      <link>#info#tvprozrywka</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/tvp-rozrywka.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>17</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TVP Szczecin</title>
+      <link>#info#tvpszczecin</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/tvp-szczecin.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>11</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TVP1 HD</title>
+      <link>#info#tvp-1</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/tvp-1-hd.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>1</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TVP2 HD</title>
+      <link>#info#tvp-2</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/tvp-2-hd.jpg</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>2</tvid>
+      <source>DTV</source>
+    </item>
+    <item>
+      <title>TVS</title>
+      <link>#info#tvs</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-tvs.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>3</tvid>
+      <source>ATV</source>
+    </item>
+    <item>
+      <title>WDR</title>
+      <link>http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8</link>
+      <image>http://www.lyngsat-logo.com/logo/tv/ww/wdr_dusseldorf.png</image>
+      <description> </description>
+      <type>HLS</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>188</tvid>
+      <source>OnlineTV</source>
+    </item>
+    <item>
+      <title>ZDF</title>
+      <link>#info#zdf</link>
+      <image>http://www.cyfrowypolsat.pl/img/homepage/logo/big/program-tv-zdf.gif</image>
+      <description> </description>
+      <type>HTTP</type>
+      <ch_category>
+        <id_category>
+        </id_category>
+      </ch_category>
+      <tvid>6</tvid>
+      <source>ATV</source>
+    </item>
+  </channel>
+</rss>
