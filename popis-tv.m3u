@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1, Fiorentina
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
 #EXTINF:-1, Baby TV
@@ -130,7 +131,7 @@ http://pinkovi.hits2hits.com/fastv_2psh/Pink3global_rly_greece_109/hits2hits.m3u
 http://pinkovi.hits2hits.com/fastv_2psh/PinkActionglobal_rly_greece_109/hits2hits.m3u8
 #EXTINF:-1, Pink Thriller
 http://pinkovi.hits2hits.com/fastv_2psh/PinkAction2global_rly_greece_103/hits2hits.m3u8
-#EXTINF:-1, Pink Crime  and  Mystery
+#EXTINF:-1, Pink Crime & Mystery
 http://pinkovi.hits2hits.com/fastv_2psh/PinkAction3global_rly_greece_103/hits2hits.m3u8
 #EXTINF:-1, Pink Folk 1
 http://pinkovi.hits2hits.com/fastv_2psh/PinkFolk1global_rly_greece_103/hits2hits.m3u8
@@ -144,7 +145,7 @@ http://pinkovi.hits2hits.com/fastv_2psh/PinkLiveglobal_rly_greece_103/hits2hits.
 http://pinkovi.hits2hits.com/fastv_2psh/PinkMglobal_rly_greece_109/hits2hits.m3u8
 #EXTINF:-1, Pink Romance
 http://pinkovi.hits2hits.com/fastv_2psh/PinkMovies2global_rly_greece_109/hits2hits.m3u8
-#EXTINF:-1, Pink Sci-Fi  and  Fantasy
+#EXTINF:-1, Pink Sci-Fi & Fantasy
 http://pinkovi.hits2hits.com/fastv_2psh/PinkMovies3global_rly_greece_109/hits2hits.m3u8
 #EXTINF:-1, Pink Music 1
 http://pinkovi.hits2hits.com/fastv_2psh/PinkMusicglobal_rly_greece_103/hits2hits.m3u8
@@ -176,7 +177,7 @@ http://91.109.20.227:8080/TV4251
 http://91.109.20.227:8080/TV4252
 #EXTINF:0, Sky Movies Select
 http://91.109.20.227:8080/TV4254
-#EXTINF:0, Sky Movies Action  and  Adventure
+#EXTINF:0, Sky Movies Action & Adventure
 http://91.109.20.227:8080/TV4245
 #EXTINF:0, Sky Movies Comedy
 http://91.109.20.227:8080/TV4246
@@ -192,7 +193,7 @@ http://185.56.30.123:8082/TV4251
 http://185.56.30.123:8082/TV4252
 #EXTINF:0, Sky Sky Movies Select
 http://185.56.30.123:8082/TV4254
-#EXTINF:0, Sky Movies Action  and  Adventure
+#EXTINF:0, Sky Movies Action & Adventure
 http://185.56.30.123:8082/TV4245
 #EXTINF:0, Sky Movies Comedy
 http://185.56.30.123:8082/TV4246
@@ -552,7 +553,7 @@ http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_ANIMALPLANET/variant.m3u8
 #EXTINF:-1, BBC Knowledge
 http://cdn.iptv.amis.net/LIVE/BBCKnowledge/stream_wifi_1200k.m3u8
-#EXTINF:-1, Crime  and  Investigation
+#EXTINF:-1, Crime & Investigation
 http://176.31.59.58:8081/live/CrimeInvestigation/playlist.m3u8
 #EXTINF:-1, DaVinci Learning
 http://cdn.iptv.amis.net/ts/DaVinciLear/stream_wifi_1200k.m3u8
@@ -976,7 +977,7 @@ http://81.174.163.123:9981/stream/channelid/13?ticket=C0A30FBB79D9E19B88D856E9F3
 http://81.174.163.123:9981/stream/channelid/25?ticket=6C1557C9E3F5B33B973A65B2240CA717B33BC154
 #EXTINF:0, Really
 http://81.174.163.123:9981/stream/channelid/18?ticket=0CEB03757EF9358F0505C1E13B8C11A9040E4902
-#EXTINF:0, Rocks  and  Co 1
+#EXTINF:0, Rocks & Co 1
 http://81.174.163.123:9981/stream/channelid/34?ticket=2669A6E2E07AFEA2AF35B2146F2B568A648EA3CD
 #EXTINF:0, Challenge
 http://81.174.163.123:9981/stream/channelid/27?ticket=C8C9500B4C4A02EE95E33AD6D204492D3AB74808
@@ -1050,7 +1051,7 @@ http://212.70.155.243:40665/udp/237.100.0.125:4000
 http://128.105.21.253:8080/udp/239.1.1.90:3090
 #EXTINF:0, TNT
 http://50.7.69.170:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-#EXTINF:0, A and E
+#EXTINF:0, A&E
 http://50.7.69.186:1935/edge/_definst_/tuc280rbycwnsvs/manifest.m3u8?wowzasessionid=1426231480
 #EXTINF:0, CW
 http://50.7.69.170:1935/edge/_definst_/qvvkvojlano9hnj/manifest.m3u8?wowzasessionid=1426889772
@@ -1144,9 +1145,9 @@ http://91.109.20.227:8080/TV4252
 http://185.56.30.123:8082/TV4254
 #EXTINF:0, Sky Movies Select  (backup)
 http://91.109.20.227:8080/TV4254
-#EXTINF:0, Sky Movies Action  and  Adventure
+#EXTINF:0, Sky Movies Action & Adventure
 http://185.56.30.123:8082/TV4245
-#EXTINF:0, Sky Movies Action  and  Adventure (backup)
+#EXTINF:0, Sky Movies Action & Adventure (backup)
 http://91.109.20.227:8080/TV4245
 #EXTINF:0, Sky Movies Comedy
 http://185.56.30.123:8082/TV4246
@@ -1603,11 +1604,11 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?version=2
 #EXTINF:0, MTV Hits
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8?version=2
 #EXTINF:0, MTV Hits HD
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2 and profile=476 and lan=2 and rows=40 and f=HasBahCa.m3u8
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=476&lan=2&rows=40&f=HasBahCa.m3u8
 #EXTINF:0, MTV Rocks
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?version=2
 #EXTINF:0, MTV Live HD
-http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key and stream_id=0
+http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key&stream_id=0
 #EXTINF:0, Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:0, 4Music
@@ -1663,11 +1664,11 @@ http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
 #EXTINF:0, DjinG
 http://cdn.djing.com/tv/d-05.m3u8
 #EXTINF:0, Clubland
-http://rrr.sz.xlcdn.com/?account=AATW and file=clublandtv and type=live and service=wowza and protocol=http and output=playlist.m3u8
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, AKA Music
-http://rrr.sz.xlcdn.com/?account=AATW and file=akanew and type=live and service=wowza and protocol=http and output=playlist.m3u8
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, Now Thats What I Call Music
-http://rrr.sz.xlcdn.com/?account=AATW and file=nowmusic and type=live and service=wowza and protocol=http and output=playlist.m3u8
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, Kiss TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:0, Radio 105 TV
@@ -1768,17 +1769,17 @@ mmsh://212.162.68.163:80/raisport2?MSWMExt=.asf
 http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8
 #EXTINF:0, C-More Sport
 http://188.138.9.228:8023
-#EXTINF:0, NAŠ FOOTBALL HD (RU)
+#EXTINF:0, Sport RU (UNAMED)
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2
-#EXTINF:0, NAŠ FOOTBALL HD (RU) bkp 
+#EXTINF:0, Sport RU (UNAMED)
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_NASHFUTBOL/variant.m3u8?version=2
 #EXTINF:0, FOOTBALL (RU)
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_FUTBALL/variant.m3u8?version=2
-#EXTINF:0, SPORT 1 HD (RU)
+#EXTINF:0, Sport RU (UNAMED)
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2
-#EXTINF:0, SPORT 1 (RU) bkp
+#EXTINF:0, Sport RU (UNAMED)
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:0, SPORT (RU)
+#EXTINF:0, Sport RU (UNAMED)
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2
 #EXTINF:0, RING BG
 http://212.70.155.243:40665/udp/237.100.0.55:4000
@@ -1868,7 +1869,7 @@ http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
 #EXTINF:0, Sports Night HD
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
-#EXTINF:0, Fight (RU)
+#EXTINF:0, Sport RU (UNAMED)
 http://92.50.181.6/tv/1118/index.m3u8
 #EXTINF:0, Osn Sports 1 HD
 http://4.31.30.145:9130

@@ -7245,7 +7245,7 @@
 </channel>
 <channel>
 	<title>MTV Hits HD</title>
-	<stream_url><![CDATA[http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2 and profile=476 and lan=2 and rows=40 and f=HasBahCa.m3u8]]></stream_url> 
+	<stream_url><![CDATA[http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=476&lan=2&rows=40&f=HasBahCa.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -7263,7 +7263,7 @@
 </channel>
 <channel>
 	<title>MTV Live HD</title>
-	<stream_url><![CDATA[http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key and stream_id=0]]></stream_url> 
+	<stream_url><![CDATA[http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key&stream_id=0]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -7515,7 +7515,7 @@
 </channel>
 <channel>
 	<title>Clubland</title>
-	<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW and file=clublandtv and type=live and service=wowza and protocol=http and output=playlist.m3u8]]></stream_url> 
+	<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -7524,7 +7524,7 @@
 </channel>
 <channel>
 	<title>AKA Music</title>
-	<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW and file=akanew and type=live and service=wowza and protocol=http and output=playlist.m3u8]]></stream_url> 
+	<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -7533,7 +7533,7 @@
 </channel>
 <channel>
 	<title>Now Thats What I Call Music</title>
-	<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW and file=nowmusic and type=live and service=wowza and protocol=http and output=playlist.m3u8]]></stream_url> 
+	<stream_url><![CDATA[http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -7991,7 +7991,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>NAŠ FOOTBALL HD (RU)</title>
+	<title>Sport RU (UNAMED)</title>
 	<stream_url><![CDATA[http://hlsstr04.svc.iptv.rt.ru/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -8000,7 +8000,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>NAŠ FOOTBALL HD (RU) bkp </title>
+	<title>Sport RU (UNAMED)</title>
 	<stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_NASHFUTBOL/variant.m3u8?version=2]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -8018,7 +8018,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>SPORT 1 HD (RU)</title>
+	<title>Sport RU (UNAMED)</title>
 	<stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -8027,7 +8027,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>SPORT 1 (RU) bkp</title>
+	<title>Sport RU (UNAMED)</title>
 	<stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -8036,7 +8036,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>SPORT (RU)</title>
+	<title>Sport RU (UNAMED)</title>
 	<stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPORT/variant.m3u8?version=2]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -8441,7 +8441,7 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Fight (RU)</title>
+	<title>Sport RU (UNAMED)</title>
 	<stream_url><![CDATA[http://92.50.181.6/tv/1118/index.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
@@ -8942,7 +8942,7 @@
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
 	<browser_url></browser_url>
-	<category_id>1</category_id>
+	<category_id>7</category_id>
 </channel>
 <channel>
 	<title>Olala</title>
