@@ -1,6 +1,66 @@
 #EXTM3U
-#EXTINF:-1, Fiorentina
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:0, Premium Calcio Extra HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/1000.ts
+#EXTINF:0, Premium Calcio HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/706.ts
+#EXTINF:0, Premium Calcio 2 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/768.ts
+#EXTINF:0, Premium Calcio
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/37.ts
+#EXTINF:0, Premium Calcio 1
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/38.ts
+#EXTINF:0, Premium Calcio 2
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/39.ts
+#EXTINF:0, Premium Calcio 3
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/40.ts
+#EXTINF:0, Sky Sport 24 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/124.ts
+#EXTINF:0, Sky Sport Plus HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/777.ts
+#EXTINF:0, Sky Fox Sport HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/410.ts
+#EXTINF:0, Sky Fox Sport 2 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/719.ts
+#EXTINF:0, Sky Sport 1 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/129.ts
+#EXTINF:0, Sky Sport 2 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/165.ts
+#EXTINF:0, Sky Sport 3 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/628.ts
+#EXTINF:0, Sky Eurosport 2 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/895.ts
+#EXTINF:0, Sky Eurosport 1 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/894.ts
+#EXTINF:0, Sky Sport F1 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/131.ts
+#EXTINF:0, Sky Sport MotoGP HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/538.ts
+#EXTINF:0, Sky Supertennis HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/956.ts
+#EXTINF:0, Sky Super Calcio HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/128.ts
+#EXTINF:0, Juve Channel
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/989.ts
+#EXTINF:0, Inter Channel
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/988.ts
+#EXTINF:0, Milan Channel
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/990.ts
+#EXTINF:0, Sky Calcio 1 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/46.ts
+#EXTINF:0, Sky Calcio 2 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/761.ts
+#EXTINF:0, Sky Calcio 3 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/762.ts
+#EXTINF:0, Sky Calcio 4 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/718.ts
+#EXTINF:0, Sky Calcio 5 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/50.ts
+#EXTINF:0, Sky Calcio 6 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/51.ts
+#EXTINF:0, Sky Calcio 7 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/52.ts
+#EXTINF:0, Sky Calcio 8 HD
+http://bstream.universostream.net:8000/live/andrededo/zanghetta06/978.ts
 #EXTINF:-1, Baby TV
 http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8
 #EXTINF:-1, Boomerang
@@ -87,6 +147,38 @@ http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8
 http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8
 #EXTINF:-1, RTRS
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+#EXTINF:0, B92
+http://edge1.volim.tv/live/b92.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, HAPPY
+http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, HRT 1
+http://edge1.volim.tv/live/hrt_1.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, HRT 2
+http://edge1.volim.tv/live/hrt_2.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, KANAL 3
+http://edge1.volim.tv/live/kanal_3.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, SKY PLUS
+http://edge1.volim.tv/live/sky_plus.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, PALMA PLUS
+http://edge1.volim.tv/live/palma.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, PINK
+http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, PRVA TV
+http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, RTCG SAT
+http://edge1.volim.tv/live/rtcg.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, RTRS
+http://edge1.volim.tv/live/rtrs.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, RTS 1
+http://edge1.volim.tv/live/rts_1.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, RTS 2
+http://edge1.volim.tv/live/rts_2.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, RTV 1
+http://edge1.volim.tv/live/rtv_1.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, SOS
+http://edge1.volim.tv1/live/sos.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:0, STUDIO B
+http://edge1.volim.tv/live/studio_b.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
 #EXTINF:-1, B92
 http://stream.b92.net:7999/tv-b92.ogg
 #EXTINF:-1, RTS 1
@@ -598,7 +690,7 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/bw480000/variant.m3u8?versi
 #EXTINF:-1, Viasat History
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/bw480000/variant.m3u8?version=2
 #EXTINF:-1, Arena Sport 1
-http://109.206.96.129:1935/live/arena1.stream/playlist.m3u8
+http://213.5.58.58:1935/arena1_live/smil:arena1.smil/nesto.m3u8
 #EXTINF:-1, Eurosport 1 (Dual Audio)
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2
 #EXTINF:-1, Eurosport 1 HD (Dual Audio)
