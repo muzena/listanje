@@ -1,66 +1,4 @@
 #EXTM3U
-#EXTINF:0, Premium Calcio Extra HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/1000.ts
-#EXTINF:0, Premium Calcio HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/706.ts
-#EXTINF:0, Premium Calcio 2 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/768.ts
-#EXTINF:0, Premium Calcio
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/37.ts
-#EXTINF:0, Premium Calcio 1
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/38.ts
-#EXTINF:0, Premium Calcio 2
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/39.ts
-#EXTINF:0, Premium Calcio 3
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/40.ts
-#EXTINF:0, Sky Sport 24 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/124.ts
-#EXTINF:0, Sky Sport Plus HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/777.ts
-#EXTINF:0, Sky Fox Sport HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/410.ts
-#EXTINF:0, Sky Fox Sport 2 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/719.ts
-#EXTINF:0, Sky Sport 1 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/129.ts
-#EXTINF:0, Sky Sport 2 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/165.ts
-#EXTINF:0, Sky Sport 3 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/628.ts
-#EXTINF:0, Sky Eurosport 2 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/895.ts
-#EXTINF:0, Sky Eurosport 1 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/894.ts
-#EXTINF:0, Sky Sport F1 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/131.ts
-#EXTINF:0, Sky Sport MotoGP HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/538.ts
-#EXTINF:0, Sky Supertennis HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/956.ts
-#EXTINF:0, Sky Super Calcio HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/128.ts
-#EXTINF:0, Juve Channel
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/989.ts
-#EXTINF:0, Inter Channel
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/988.ts
-#EXTINF:0, Milan Channel
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/990.ts
-#EXTINF:0, Sky Calcio 1 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/46.ts
-#EXTINF:0, Sky Calcio 2 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/761.ts
-#EXTINF:0, Sky Calcio 3 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/762.ts
-#EXTINF:0, Sky Calcio 4 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/718.ts
-#EXTINF:0, Sky Calcio 5 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/50.ts
-#EXTINF:0, Sky Calcio 6 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/51.ts
-#EXTINF:0, Sky Calcio 7 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/52.ts
-#EXTINF:0, Sky Calcio 8 HD
-http://bstream.universostream.net:8000/live/andrededo/zanghetta06/978.ts
 #EXTINF:-1, Baby TV
 http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8
 #EXTINF:-1, Boomerang
@@ -147,38 +85,38 @@ http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8
 http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8
 #EXTINF:-1, RTRS
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
-#EXTINF:0, B92
-http://edge1.volim.tv/live/b92.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, HAPPY
-http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, HRT 1
-http://edge1.volim.tv/live/hrt_1.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, HRT 2
-http://edge1.volim.tv/live/hrt_2.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, KANAL 3
-http://edge1.volim.tv/live/kanal_3.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, SKY PLUS
-http://edge1.volim.tv/live/sky_plus.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, PALMA PLUS
-http://edge1.volim.tv/live/palma.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, PINK
-http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, PRVA TV
-http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, RTCG SAT
-http://edge1.volim.tv/live/rtcg.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, RTRS
-http://edge1.volim.tv/live/rtrs.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, RTS 1
-http://edge1.volim.tv/live/rts_1.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, RTS 2
-http://edge1.volim.tv/live/rts_2.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, RTV 1
-http://edge1.volim.tv/live/rtv_1.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, SOS
-http://edge1.volim.tv1/live/sos.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
-#EXTINF:0, STUDIO B
-http://edge1.volim.tv/live/studio_b.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1
+#EXTINF:-1, RTS 1
+http://edge3.volim.tv/live/rts_1.stream/playlist.m3u8
+#EXTINF:-1, RTS 2
+http://edge3.volim.tv/live/rts_2.stream/playlist.m3u8
+#EXTINF:-1, PINK
+http://edge3.volim.tv/live/pink.stream/playlist.m3u8
+#EXTINF:-1, HAPPY
+http://edge3.volim.tv/live/happy.stream/playlist.m3u8
+#EXTINF:-1, SOS
+http://edge3.volim.tv/live/sos.stream/playlist.m3u8
+#EXTINF:-1, B 92
+http://edge3.volim.tv/live/b92.stream/playlist.m3u8
+#EXTINF:-1, PRVA
+http://edge3.volim.tv/live/prva.stream/playlist.m3u8
+#EXTINF:-1, STUDIO B
+http://edge3.volim.tv/live/studio_b.stream/playlist.m3u8
+#EXTINF:-1, SKY PLUS
+http://edge3.volim.tv/live/sky_plus.stream/playlist.m3u8
+#EXTINF:-1, PALMA
+http://edge3.volim.tv/live/palma.stream/playlist.m3u8
+#EXTINF:-1, RTCG SAT
+http://edge3.volim.tv/live/rtcg.stream/playlist.m3u8
+#EXTINF:-1, RTRS
+http://edge3.volim.tv/live/rtrs.stream/playlist.m3u8
+#EXTINF:-1, HTV 1
+http://edge3.volim.tv/live/hrt_1.stream/playlist.m3u8
+#EXTINF:-1, HTV 2
+http://edge3.volim.tv/live/hrt_2.stream/playlist.m3u8
+#EXTINF:-1, RTV 1
+http://edge3.volim.tv/live/rtv_1.stream/playlist.m3u8
+#EXTINF:-1, KANAL3
+http://edge3.volim.tv/live/kanal_3.stream/playlist.m3u8
 #EXTINF:-1, B92
 http://stream.b92.net:7999/tv-b92.ogg
 #EXTINF:-1, RTS 1
@@ -689,8 +627,8 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLORER/bw480000/variant.m3u8?version=2
 #EXTINF:-1, Viasat History
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/bw480000/variant.m3u8?version=2
-#EXTINF:-1, Arena Sport 1
-http://213.5.58.58:1935/arena1_live/smil:arena1.smil/nesto.m3u8
+#EXTINF:-1, NBC Sports Network Full HD (Potreban VPN)
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
 #EXTINF:-1, Eurosport 1 (Dual Audio)
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORT/variant.m3u8?version=2
 #EXTINF:-1, Eurosport 1 HD (Dual Audio)
@@ -764,13 +702,15 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:-1, Sport time TV7 HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
 #EXTINF:-1, TSN 1
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+http://alil.in/tsn1
+#EXTINF:-1, TSN 2
+http://alil.in/tsn2
 #EXTINF:-1, TSN 3
-http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+http://alil.in/tsn3
 #EXTINF:-1, TSN 4
-http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+http://alil.in/tsn4
 #EXTINF:-1, TSN 5
-http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+http://alil.in/tsn5
 #EXTINF:-1, Fox Sports 1
 http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
 #EXTINF:0, Fox Sports 2
@@ -785,68 +725,6 @@ http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8
 #EXTINF:-1, ESPN 2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8
-#EXTINF:0, Pink
-http://str108.setplex.net/fastv_2psh/Pinkglobal_rly_greece_109/index.m3u8
-#EXTINF:0, Pink 2
-http://str108.setplex.net/fastv_2psh/Pink2global_rly_greece_109/index.m3u8
-#EXTINF:0, Pink 3
-http://str108.setplex.net/fastv_2psh/Pink3global_rly_greece_109/index.m3u8
-#EXTINF:0, Pink Zabava
-http://str108.setplex.net/fastv_2psh/PinkZabavaglobal_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Live
-http://str108.setplex.net/fastv_2psh/PinkLiveglobal_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Fashion
-http://str108.setplex.net/fastv_2psh/PinkFashionglobal_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Movies
-http://str108.setplex.net/fastv_2psh/PinkMoviesglobal_rly_greece_109/index.m3u8
-#EXTINF:0, Pink Movies 2
-http://str108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/index.m3u8
-#EXTINF:0, Pink Movies 3
-http://str108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/index.m3u8
-#EXTINF:0, Pink Action
-http://str108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/index.m3u8
-#EXTINF:0, Pink Action 2
-http://str108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Action 3
-http://str108.setplex.net/fastv_2psh/PinkAction3global_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Premium
-http://str108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Comedy
-http://str108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Family
-http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Horror
-http://str108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Western
-http://str108.setplex.net/fastv_2psh/PinkWesternglobal_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Kids
-http://str108.setplex.net/fastv_2psh/PinkKidsglobal_rly_greece_103/index.m3u8
-#EXTINF:0, Pink M
-http://str108.setplex.net/fastv_2psh/PinkMglobal_rly_greece_109/index.m3u8
-#EXTINF:0, Pink Music
-http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Music 2
-http://str108.setplex.net/fastv_2psh/PinkMusic2global_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Music 3
-http://str108.setplex.net/fastv_2psh/PinkMusic3global_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Music 4
-http://str108.setplex.net/fastv_2psh/PinkMusic4global_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Music 5
-http://str108.setplex.net/fastv_2psh/PinkMusic5global_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Folk 1
-http://str108.setplex.net/fastv_2psh/PinkFolk1global_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Folk 2
-http://str108.setplex.net/fastv_2psh/PinkFolk2global_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Pedia
-http://str108.setplex.net/fastv_2psh/PinkPediaglobal_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Reality
-http://str108.setplex.net/fastv_2psh/PinkRealityglobal_rly_greece_103/index.m3u8
-#EXTINF:0, Pink Soap
-http://str108.setplex.net/fastv_2psh/PinkSoapglobal_rly_greece_103/index.m3u8
-#EXTINF:0, Pink World
-http://str108.setplex.net/fastv_2psh/PinkWorldglobal_rly_greece_109/index.m3u8
-#EXTINF:0, Pink Nostalgija
-http://str108.setplex.net/fastv_2psh/PinkNostalgijaglobal_rly_greece_103/index.m3u8
 #EXTINF:0, RTS 1
 http://109.122.121.21/live/rts_1.stream/playlist.m3u8?hash=13dd7621bcc2a3615f50c858253a6c19974c7b9a
 #EXTINF:0, RTS 2

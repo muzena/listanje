@@ -26,285 +26,6 @@
 	<category_title>XXX</category_title>
 </category>
 <channel>
-	<title>Premium Calcio Extra HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/1000.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Premium Calcio HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/706.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Premium Calcio 2 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/768.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Premium Calcio</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/37.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Premium Calcio 1</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/38.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Premium Calcio 2</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/39.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Premium Calcio 3</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/40.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Sport 24 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/124.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Sport Plus HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/777.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Fox Sport HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/410.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Fox Sport 2 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/719.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Sport 1 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/129.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Sport 2 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/165.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Sport 3 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/628.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Eurosport 2 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/895.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Eurosport 1 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/894.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Sport F1 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/131.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Sport MotoGP HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/538.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Supertennis HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/956.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Super Calcio HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/128.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Juve Channel</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/989.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Inter Channel</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/988.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Milan Channel</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/990.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Calcio 1 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/46.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Calcio 2 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/761.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Calcio 3 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/762.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Calcio 4 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/718.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Calcio 5 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/50.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Calcio 6 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/51.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Calcio 7 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/52.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Sky Calcio 8 HD</title>
-	<stream_url><![CDATA[http://bstream.universostream.net:8000/live/andrededo/zanghetta06/978.ts]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
 	<title>Baby TV</title>
 	<stream_url><![CDATA[http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8]]></stream_url> 
 	<video_type>http</video_type>
@@ -692,107 +413,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>B92</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/b92.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>HAPPY</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>HRT 1</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/hrt_1.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>HRT 2</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/hrt_2.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>KANAL 3</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/kanal_3.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>SKY PLUS</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/sky_plus.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>PALMA PLUS</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/palma.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>PINK</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>PRVA TV</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>RTCG SAT</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/rtcg.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>RTRS</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/rtrs.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
 	<title>RTS 1</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/rts_1.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
+	<stream_url><![CDATA[http://edge3.volim.tv/live/rts_1.stream/playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -801,7 +423,7 @@
 </channel>
 <channel>
 	<title>RTS 2</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/rts_2.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
+	<stream_url><![CDATA[http://edge3.volim.tv/live/rts_2.stream/playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -809,8 +431,17 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>RTV 1</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/rtv_1.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
+	<title>PINK</title>
+	<stream_url><![CDATA[http://edge3.volim.tv/live/pink.stream/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>HAPPY</title>
+	<stream_url><![CDATA[http://edge3.volim.tv/live/happy.stream/playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -819,7 +450,25 @@
 </channel>
 <channel>
 	<title>SOS</title>
-	<stream_url><![CDATA[http://edge1.volim.tv1/live/sos.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
+	<stream_url><![CDATA[http://edge3.volim.tv/live/sos.stream/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>B 92</title>
+	<stream_url><![CDATA[http://edge3.volim.tv/live/b92.stream/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>PRVA</title>
+	<stream_url><![CDATA[http://edge3.volim.tv/live/prva.stream/playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -828,7 +477,79 @@
 </channel>
 <channel>
 	<title>STUDIO B</title>
-	<stream_url><![CDATA[http://edge1.volim.tv/live/studio_b.stream/playlist.m3u8?hash=f8ae9eb3e1a0e078c86323ec8b98568c6ab3a3f1]]></stream_url> 
+	<stream_url><![CDATA[http://edge3.volim.tv/live/studio_b.stream/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>SKY PLUS</title>
+	<stream_url><![CDATA[http://edge3.volim.tv/live/sky_plus.stream/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>PALMA</title>
+	<stream_url><![CDATA[http://edge3.volim.tv/live/palma.stream/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>RTCG SAT</title>
+	<stream_url><![CDATA[http://edge3.volim.tv/live/rtcg.stream/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>RTRS</title>
+	<stream_url><![CDATA[http://edge3.volim.tv/live/rtrs.stream/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>HTV 1</title>
+	<stream_url><![CDATA[http://edge3.volim.tv/live/hrt_1.stream/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>HTV 2</title>
+	<stream_url><![CDATA[http://edge3.volim.tv/live/hrt_2.stream/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>RTV 1</title>
+	<stream_url><![CDATA[http://edge3.volim.tv/live/rtv_1.stream/playlist.m3u8]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>KANAL3</title>
+	<stream_url><![CDATA[http://edge3.volim.tv/live/kanal_3.stream/playlist.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -3131,8 +2852,8 @@
 	<category_id>1</category_id>
 </channel>
 <channel>
-	<title>Arena Sport 1</title>
-	<stream_url><![CDATA[http://213.5.58.58:1935/arena1_live/smil:arena1.smil/nesto.m3u8]]></stream_url> 
+	<title>NBC Sports Network Full HD (Potreban VPN)</title>
+	<stream_url><![CDATA[http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -3465,7 +3186,16 @@
 </channel>
 <channel>
 	<title>TSN 1</title>
-	<stream_url><![CDATA[http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8]]></stream_url> 
+	<stream_url><![CDATA[http://alil.in/tsn1]]></stream_url> 
+	<video_type>http</video_type>
+	<logo_30x30>nasa.jpg</logo_30x30>
+	<description>http stream</description>
+	<browser_url></browser_url>
+	<category_id>1</category_id>
+</channel>
+<channel>
+	<title>TSN 2</title>
+	<stream_url><![CDATA[http://alil.in/tsn2]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -3474,7 +3204,7 @@
 </channel>
 <channel>
 	<title>TSN 3</title>
-	<stream_url><![CDATA[http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8]]></stream_url> 
+	<stream_url><![CDATA[http://alil.in/tsn3]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -3483,7 +3213,7 @@
 </channel>
 <channel>
 	<title>TSN 4</title>
-	<stream_url><![CDATA[http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8]]></stream_url> 
+	<stream_url><![CDATA[http://alil.in/tsn4]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -3492,7 +3222,7 @@
 </channel>
 <channel>
 	<title>TSN 5</title>
-	<stream_url><![CDATA[http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8]]></stream_url> 
+	<stream_url><![CDATA[http://alil.in/tsn5]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
@@ -3556,285 +3286,6 @@
 <channel>
 	<title>ESPN 2</title>
 	<stream_url><![CDATA[http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/Pinkglobal_rly_greece_109/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink 2</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/Pink2global_rly_greece_109/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink 3</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/Pink3global_rly_greece_109/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Zabava</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkZabavaglobal_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Live</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkLiveglobal_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Fashion</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkFashionglobal_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Movies</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkMoviesglobal_rly_greece_109/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Movies 2</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Movies 3</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Action</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Action 2</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Action 3</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkAction3global_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Premium</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Comedy</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Family</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Horror</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Western</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkWesternglobal_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Kids</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkKidsglobal_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink M</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkMglobal_rly_greece_109/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Music</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Music 2</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkMusic2global_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Music 3</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkMusic3global_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Music 4</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkMusic4global_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Music 5</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkMusic5global_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Folk 1</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkFolk1global_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Folk 2</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkFolk2global_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Pedia</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkPediaglobal_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Reality</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkRealityglobal_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Soap</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkSoapglobal_rly_greece_103/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink World</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkWorldglobal_rly_greece_109/index.m3u8]]></stream_url> 
-	<video_type>http</video_type>
-	<logo_30x30>nasa.jpg</logo_30x30>
-	<description>http stream</description>
-	<browser_url></browser_url>
-	<category_id>1</category_id>
-</channel>
-<channel>
-	<title>Pink Nostalgija</title>
-	<stream_url><![CDATA[http://str108.setplex.net/fastv_2psh/PinkNostalgijaglobal_rly_greece_103/index.m3u8]]></stream_url> 
 	<video_type>http</video_type>
 	<logo_30x30>nasa.jpg</logo_30x30>
 	<description>http stream</description>
